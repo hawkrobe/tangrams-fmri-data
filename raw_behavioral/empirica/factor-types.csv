@@ -1,0 +1,7 @@
+﻿_id,name,required,description,type,min,max,createdAt,archivedAt
+JtewtWYuLHAE9FvL3,playerCount,true,The Number of players participating in the given game.,Integer,1,,2023-03-30T16:23:04Z,
+BBRoq5WHnzs4qpWew,repetitionsWithPartner,true,how many times do you repeat with a partner,String,,,2023-03-30T17:01:06Z,
+kJddTH8X4Y6Df7SPA,selectionDuration,true,how many seconds do participants have to complete a tangram selection trial,String,,,2023-03-30T17:01:06Z,
+oTmtc6KmQb77CaDTC,submitCode,true,code for submission to prolific/mturk,String,,,2023-03-30T17:01:06Z,
+z6L6FSpw5CXijPmkw,sessionID,true,sessionID,Number,1,30,2023-03-30T17:01:06Z,
+E66aRX489aoBNN7hh,blockStart,true,Which block to start the experiment on.,Number,1,10,2023-03-30T17:01:06Z,

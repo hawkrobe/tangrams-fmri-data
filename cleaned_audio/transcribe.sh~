@@ -1,0 +1,15 @@
+whisper --output_format tsv --output_dir ../transcripts/sessid002 --model medium sessid002/*.mp3
+whisper --output_format tsv --output_dir ../transcripts/sessid003 --model medium sessid003/*.mp3
+whisper --output_format tsv --output_dir ../transcripts/sessid004 --model medium sessid004/*.mp3
+whisper --output_format tsv --output_dir ../transcripts/sessid005 --model medium sessid005/*.mp3
+whisper --output_format tsv --output_dir ../transcripts/sessid006 --model medium sessid006/*.mp3
+whisper --output_format tsv --output_dir ../transcripts/sessid007 --model medium sessid007/*.mp3
+whisper --output_format tsv --output_dir ../transcripts/sessid008 --model medium sessid008/*.mp3
+whisper --output_format tsv --output_dir ../transcripts/sessid009 --model medium sessid009/*.mp3
+whisper --output_format tsv --output_dir ../transcripts/sessid010 --model medium sessid010/*.mp3
+whisper --output_format tsv --output_dir ../transcripts/sessid011 --model medium sessid011/*.mp3
+whisper --output_format tsv --output_dir ../transcripts/sessid012 --model medium sessid012/*.mp3
+whisper --output_format tsv --output_dir ../transcripts/sessid013 --model medium sessid013/*.mp3
+whisper --output_format tsv --output_dir ../transcripts/sessid014 --model medium sessid014/*.mp3
+whisper --output_format tsv --output_dir ../transcripts/sessid015 --model medium sessid015/*.mp3
+whisper --output_format tsv --output_dir ../transcripts/sessid016 --model medium sessid016/*.mp3
