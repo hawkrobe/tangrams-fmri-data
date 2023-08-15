@@ -1,3 +1,1 @@
-* annex.backend=MD5E
-**/.git* annex.largefiles=nothing
-* annex.largefiles=((mimeencoding=binary)and(largerthan=0))
+.git/annex/objects/20/Zq/MD5E-s91--9609fc238b019b30d2d05780a95c4275/MD5E-s91--9609fc238b019b30d2d05780a95c4275
