@@ -1,1 +1,3 @@
-.git/annex/objects/20/Zq/MD5E-s91--9609fc238b019b30d2d05780a95c4275/MD5E-s91--9609fc238b019b30d2d05780a95c4275
+* annex.backend=MD5E
+**/.git* annex.largefiles=nothing
+* annex.largefiles=(largerthan=20kb)
