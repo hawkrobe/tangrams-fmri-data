@@ -1,0 +1,13 @@
+------------------------------
+SUBJECT sub-s012
+START_TIME Thu Aug 10 18:22:46 UTC 2023
+END_TIME Thu Aug 10 18:32:53 UTC 2023
+RUNTIME_HOURS 0.169
+USER robertdh
+HOST redshirt-n48
+PROCESSOR x86_64
+OS Linux
+UNAME Linux redshirt-n48 3.10.0-1160.92.1.el7.x86_64 #1 SMP Tue Jun 6 10:04:24 EDT 2023 x86_64 x86_64 x86_64 GNU/Linux
+VERSION 7.3.2 (freesurfer-linux-ubuntu22_x86_64-7.3.2-20220804-6354275)
+CMDPATH /opt/freesurfer/bin/recon-all
+CMDARGS -autorecon3 -openmp 8 -subjid sub-s012 -sd /project/data/bids/derivatives/sourcedata/freesurfer -nosphere -nosurfreg -nojacobian_white -noavgcurv -nocortparc -nopial -noparcstats -nocortparc2 -noparcstats2 -nocortparc3 -noparcstats3 -nopctsurfcon -nocortribbon -nobalabels
