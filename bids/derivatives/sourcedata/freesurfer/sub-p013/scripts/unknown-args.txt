@@ -1,8 +1,0 @@
--autorecon2-volonly
--openmp
-8
--subjid
-sub-p013
--sd
-/project/data/bids/derivatives/sourcedata/freesurfer
--nogcareg

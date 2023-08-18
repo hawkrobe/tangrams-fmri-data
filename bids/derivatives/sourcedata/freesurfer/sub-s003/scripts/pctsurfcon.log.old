@@ -1,9 +1,0 @@
-Logfile for pctsurfcon
-Fri Aug 11 10:43:34 UTC 2023
-setenv SUBJECTS_DIR /project/data/bids/derivatives/sourcedata/freesurfer
-cd /project/data/bids/derivatives/sourcedata/freesurfer/sub-s003/scripts
-/opt/freesurfer/bin/pctsurfcon
-pctsurfcon 7.3.2
-Linux redshirt-n48 3.10.0-1160.92.1.el7.x86_64 #1 SMP Tue Jun 6 10:04:24 EDT 2023 x86_64 x86_64 x86_64 GNU/Linux
-FREESURFER_HOME /opt/freesurfer
-Cleaning up
