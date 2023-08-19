@@ -1,0 +1,80 @@
+Node: fmriprep_23_1_wf.single_subject_p013_wf.anat_preproc_wf.fs_isrunning
+Working directory: /scratch/fmriprep_23_1_wf/single_subject_p013_wf/anat_preproc_wf/fs_isrunning
+
+Node inputs:
+
+function_str = def fs_isRunning(subjects_dir, subject_id, mtime_tol=86400, logger=None):
+    """
+    Checks FreeSurfer subjects dir for presence of recon-all blocking ``IsRunning`` files,
+    and optionally removes any based on the modification time.
+
+    Parameters
+    ----------
+    subjects_dir : os.PathLike or None
+        Existing FreeSurfer subjects directory
+    subject_id : str
+        Subject label
+    mtime_tol : int
+        Tolerance time (in seconds) between current time and last modification of ``recon-all.log``
+
+    Returns
+    -------
+    subjects_dir : os.PathLike or None
+
+    """
+    from pathlib import Path
+    import time
+
+    if subjects_dir is None:
+        return subjects_dir
+    subj_dir = Path(subjects_dir) / subject_id
+    if not subj_dir.exists():
+        return subjects_dir
+
+    isrunning = tuple(subj_dir.glob("scripts/IsRunning*"))
+    if not isrunning:
+        return subjects_dir
+    reconlog = subj_dir / "scripts" / "recon-all.log"
+    # if recon log doesn't exist, just clear IsRunning
+    mtime = reconlog.stat().st_mtime if reconlog.exists() else 0
+    if (time.time() - mtime) < mtime_tol:
+        raise RuntimeError(
+            f"""\
+The FreeSurfer's subject folder <{subj_dir}> contains IsRunning files that \
+may pertain to a current or past execution: {isrunning}.
+FreeSurfer cannot run if these are present, to avoid interfering with a running \
+process. Please, make sure no other process is running ``recon-all`` on this subject \
+and proceed to delete the files listed above."""
+        )
+    for fl in isrunning:
+        fl.unlink()
+    if logger:
+        logger.warn(f'Removed "IsRunning*" files found under {subj_dir}')
+    return subjects_dir
+
+logger = <Logger nipype.workflow (IMPORTANT)>
+mtime_tol = <undefined>
+subject_id = <undefined>
+subjects_dir = <undefined>
+
+Traceback (most recent call last):
+  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/nipype/pipeline/plugins/multiproc.py", line 67, in run_node
+    result["result"] = node.run(updatehash=updatehash)
+  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 527, in run
+    result = self._run_interface(execute=True)
+  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 645, in _run_interface
+    return self._run_command(execute)
+  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 771, in _run_command
+    raise NodeExecutionError(msg)
+nipype.pipeline.engine.nodes.NodeExecutionError: Exception raised while executing Node fs_isrunning.
+
+Traceback:
+	Traceback (most recent call last):
+	  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/nipype/interfaces/base/core.py", line 397, in run
+	    runtime = self._run_interface(runtime)
+	  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/nipype/interfaces/utility/wrappers.py", line 142, in _run_interface
+	    out = function_handle(**args)
+	  File "<string>", line 36, in fs_isRunning
+	RuntimeError: The FreeSurfer's subject folder </project/data/bids/derivatives/sourcedata/freesurfer/sub-p013> contains IsRunning files that may pertain to a current or past execution: (PosixPath('/project/data/bids/derivatives/sourcedata/freesurfer/sub-p013/scripts/IsRunning.lh+rh'),).
+	FreeSurfer cannot run if these are present, to avoid interfering with a running process. Please, make sure no other process is running ``recon-all`` on this subject and proceed to delete the files listed above.
+
