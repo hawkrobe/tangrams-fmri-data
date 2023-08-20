@@ -1,0 +1,11 @@
+------------------------------
+SUBJECT sub-p013
+HEMI    lh rh
+DATE Sun Aug 20 10:51:41 UTC 2023
+USER robertdh
+HOST spock-login.pni.Princeton.EDU
+PROCESSID 29135 
+PROCESSOR x86_64
+OS Linux
+Linux spock-login.pni.Princeton.EDU 3.10.0-1160.45.1.el7.x86_64 #1 SMP Fri Oct 15 17:08:46 EDT 2021 x86_64 x86_64 x86_64 GNU/Linux
+7.3.2 (freesurfer-linux-ubuntu22_x86_64-7.3.2-20220804-6354275)

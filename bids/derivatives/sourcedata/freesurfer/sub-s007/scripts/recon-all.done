@@ -1,0 +1,13 @@
+------------------------------
+SUBJECT sub-s007
+START_TIME Mon Aug 14 09:32:09 UTC 2023
+END_TIME Mon Aug 14 09:38:27 UTC 2023
+RUNTIME_HOURS 0.105
+USER robertdh
+HOST spock7-c1-16
+PROCESSOR x86_64
+OS Linux
+UNAME Linux spock7-c1-16 3.10.0-1160.31.1.el7.x86_64 #1 SMP Mon Jun 14 23:06:37 EDT 2021 x86_64 x86_64 x86_64 GNU/Linux
+VERSION 7.3.2 (freesurfer-linux-ubuntu22_x86_64-7.3.2-20220804-6354275)
+CMDPATH /opt/freesurfer/bin/recon-all
+CMDARGS -autorecon3 -openmp 8 -subjid sub-s007 -sd /project/data/bids/derivatives/sourcedata/freesurfer -nosphere -nosurfreg -nojacobian_white -noavgcurv -nocortparc -nopial -noparcstats -nocortparc2 -noparcstats2 -nocortparc3 -noparcstats3 -nopctsurfcon -nocortribbon -nobalabels

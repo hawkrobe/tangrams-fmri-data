@@ -1,0 +1,1 @@
+mri_convert /project/data/bids/derivatives/sourcedata/freesurfer/sub-s005/mri/rawavg.mgz /project/data/bids/derivatives/sourcedata/freesurfer/sub-s005/mri/orig.mgz --conform

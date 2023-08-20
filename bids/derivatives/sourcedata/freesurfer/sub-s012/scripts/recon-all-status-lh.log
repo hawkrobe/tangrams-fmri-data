@@ -1,0 +1,46 @@
+status file for recon-all
+Thu Aug 10 16:37:27 UTC 2023
+#@# Tessellate lh Thu Aug 10 16:37:27 UTC 2023
+#@# Smooth1 lh Thu Aug 10 16:37:33 UTC 2023
+#@# Inflation1 lh Thu Aug 10 16:37:38 UTC 2023
+#@# QSphere lh Thu Aug 10 16:37:56 UTC 2023
+#@# Fix Topology lh Thu Aug 10 16:40:03 UTC 2023
+#@# Smooth2 lh Thu Aug 10 16:48:13 UTC 2023
+#@# Inflation2 lh Thu Aug 10 16:48:17 UTC 2023
+#@# Curv .H and .K lh Thu Aug 10 16:48:40 UTC 2023
+#@# Sphere lh Thu Aug 10 16:49:48 UTC 2023
+#@# Surf Reg lh Thu Aug 10 16:54:16 UTC 2023
+#@# Jacobian white lh Thu Aug 10 17:01:19 UTC 2023
+#@# AvgCurv lh Thu Aug 10 17:01:20 UTC 2023
+#@# Cortical Parc lh Thu Aug 10 17:01:21 UTC 2023
+#@# white curv lh Thu Aug 10 17:10:22 UTC 2023
+#@# white area lh Thu Aug 10 17:10:25 UTC 2023
+#@# pial curv lh Thu Aug 10 17:10:26 UTC 2023
+#@# pial area lh Thu Aug 10 17:10:29 UTC 2023
+#@# thickness lh Thu Aug 10 17:10:30 UTC 2023
+#@# area and vertex vol lh Thu Aug 10 17:11:21 UTC 2023
+#@# Curvature Stats lh Thu Aug 10 17:11:24 UTC 2023
+#@# Cortical Parc 2 lh Thu Aug 10 17:11:27 UTC 2023
+#@# Cortical Parc 3 lh Thu Aug 10 17:11:49 UTC 2023
+#@# WM/GM Contrast lh Thu Aug 10 17:12:06 UTC 2023
+recon-all -s sub-s012 finished without error at Thu Aug 10 17:12:11 UTC 2023
+
+
+
+#New# invocation of recon-all 
+
+
+
+status file for recon-all
+Thu Aug 10 18:10:15 UTC 2023
+#@# white curv lh Thu Aug 10 18:10:15 UTC 2023
+#@# white area lh Thu Aug 10 18:10:15 UTC 2023
+#@# pial curv lh Thu Aug 10 18:10:15 UTC 2023
+#@# pial area lh Thu Aug 10 18:10:15 UTC 2023
+#@# thickness lh Thu Aug 10 18:10:15 UTC 2023
+#@# area and vertex vol lh Thu Aug 10 18:10:15 UTC 2023
+#@# Parcellation Stats lh Thu Aug 10 18:10:15 UTC 2023
+#@# Parcellation Stats 2 lh Thu Aug 10 18:10:51 UTC 2023
+#@# Parcellation Stats 3 lh Thu Aug 10 18:11:11 UTC 2023
+#@# BA_exvivo Labels lh Thu Aug 10 18:11:29 UTC 2023
+recon-all -s sub-s012 finished without error at Thu Aug 10 18:16:26 UTC 2023

@@ -1,0 +1,51 @@
+Log file for defect2seg
+Mon Aug 14 01:05:58 UTC 2023
+
+setenv SUBJECTS_DIR /project/data/bids/derivatives/sourcedata/freesurfer
+cd /project/data/bids/derivatives/sourcedata/freesurfer/sub-s020/scripts
+/opt/freesurfer/bin/defect2seg --s sub-s020 --rh-only --cortex
+
+freesurfer-linux-ubuntu22_x86_64-7.3.2-20220804-6354275
+defect2seg 7.3.2
+Linux spock7-c1-14 3.10.0-1160.31.1.el7.x86_64 #1 SMP Mon Jun 14 23:06:37 EDT 2021 x86_64 x86_64 x86_64 GNU/Linux
+pid 21301
+mri_label2label --label-cortex /project/data/bids/derivatives/sourcedata/freesurfer/sub-s020/surf/rh.orig.nofix /project/data/bids/derivatives/sourcedata/freesurfer/sub-s020/mri/aseg.presurf.mgz 0 /project/data/bids/derivatives/sourcedata/freesurfer/sub-s020/label/rh.nofix.cortex.label
+
+ Generating cortex label... RemoveHipAmgy=0
+ NucAccIsMedialWall=0
+ mris->useRealRAS=0
+14 non-cortical segments detected
+only using segment with 6967 vertices
+erasing segment 1 (vno[0] = 44725)
+erasing segment 2 (vno[0] = 79808)
+erasing segment 3 (vno[0] = 81596)
+erasing segment 4 (vno[0] = 82536)
+erasing segment 5 (vno[0] = 83492)
+erasing segment 6 (vno[0] = 84322)
+erasing segment 7 (vno[0] = 88499)
+erasing segment 8 (vno[0] = 90372)
+erasing segment 9 (vno[0] = 91219)
+erasing segment 10 (vno[0] = 92111)
+erasing segment 11 (vno[0] = 93181)
+erasing segment 12 (vno[0] = 93865)
+erasing segment 13 (vno[0] = 97456)
+mri_label2vol --defects /project/data/bids/derivatives/sourcedata/freesurfer/sub-s020/surf/rh.orig.nofix /project/data/bids/derivatives/sourcedata/freesurfer/sub-s020/surf/rh.defect_labels /project/data/bids/derivatives/sourcedata/freesurfer/sub-s020/mri/orig.mgz 2000 0 /project/data/bids/derivatives/sourcedata/freesurfer/sub-s020/mri/rh.surface.defects.mgz /project/data/bids/derivatives/sourcedata/freesurfer/sub-s020/label/rh.nofix.cortex.label
+mri_label2vol supposed to be reproducible but seed not set
+Contraining to label /project/data/bids/derivatives/sourcedata/freesurfer/sub-s020/label/rh.nofix.cortex.label
+Changing input type 0 to MRI_INT
+Converting defects to volume: offset=2000, merge=0
+Writing to /project/data/bids/derivatives/sourcedata/freesurfer/sub-s020/mri/rh.surface.defects.mgz
+mris_defects_pointset -s /project/data/bids/derivatives/sourcedata/freesurfer/sub-s020/surf/rh.orig.nofix -d /project/data/bids/derivatives/sourcedata/freesurfer/sub-s020/surf/rh.defect_labels -o /project/data/bids/derivatives/sourcedata/freesurfer/sub-s020/surf/rh.defects.pointset --label /project/data/bids/derivatives/sourcedata/freesurfer/sub-s020/label/rh.nofix.cortex.label
+Reading in surface /project/data/bids/derivatives/sourcedata/freesurfer/sub-s020/surf/rh.orig.nofix
+Reading in defect segmentation /project/data/bids/derivatives/sourcedata/freesurfer/sub-s020/surf/rh.defect_labels
+Reading in label /project/data/bids/derivatives/sourcedata/freesurfer/sub-s020/label/rh.nofix.cortex.label
+#VMPC# mris_defects_pointset 659700
+mris_defects_pointset done
+ 
+Started at Mon Aug 14 01:05:58 UTC 2023 
+Ended   at Mon Aug 14 01:06:17 UTC 2023
+Defect2seg-Run-Time-Sec 19
+Defect2seg-Run-Time-Min 0.38
+Defect2seg-Run-Time-Hours 0.01
+ 
+defect2seg Done

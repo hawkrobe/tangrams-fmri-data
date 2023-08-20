@@ -1,0 +1,92 @@
+status file for recon-all
+Sun Aug 13 09:07:38 UTC 2023
+#@# MotionCor Sun Aug 13 09:07:42 UTC 2023
+#@# Talairach Sun Aug 13 09:07:50 UTC 2023
+#@# Talairach Failure Detection Sun Aug 13 09:11:52 UTC 2023
+#@# Nu Intensity Correction Sun Aug 13 09:11:52 UTC 2023
+#@# Intensity Normalization Sun Aug 13 09:15:50 UTC 2023
+recon-all -s sub-p010 finished without error at Sun Aug 13 09:17:21 UTC 2023
+
+
+
+#New# invocation of recon-all 
+
+
+
+status file for recon-all
+Sun Aug 13 09:34:24 UTC 2023
+#@# EM Registration Sun Aug 13 09:34:24 UTC 2023
+recon-all -s sub-p010 finished without error at Sun Aug 13 09:36:29 UTC 2023
+
+
+
+#New# invocation of recon-all 
+
+
+
+status file for recon-all
+Sun Aug 13 09:36:33 UTC 2023
+#@# CA Normalize Sun Aug 13 09:36:33 UTC 2023
+#@# CA Reg Sun Aug 13 09:37:33 UTC 2023
+#@# SubCort Seg Sun Aug 13 10:23:21 UTC 2023
+#@# CC Seg Sun Aug 13 10:56:11 UTC 2023
+#@# Merge ASeg Sun Aug 13 10:56:40 UTC 2023
+#@# Intensity Normalization2 Sun Aug 13 10:56:40 UTC 2023
+#@# Mask BFS Sun Aug 13 10:58:49 UTC 2023
+#@# WM Segmentation Sun Aug 13 10:58:50 UTC 2023
+#@# Fill Sun Aug 13 11:01:13 UTC 2023
+recon-all -s sub-p010 finished without error at Sun Aug 13 11:02:17 UTC 2023
+
+
+
+#New# invocation of recon-all 
+
+
+
+status file for recon-all
+Sun Aug 13 12:01:23 UTC 2023
+#@# white curv lh Sun Aug 13 12:01:23 UTC 2023
+#@# white area lh Sun Aug 13 12:01:23 UTC 2023
+#@# pial curv lh Sun Aug 13 12:01:23 UTC 2023
+#@# pial area lh Sun Aug 13 12:01:23 UTC 2023
+#@# thickness lh Sun Aug 13 12:01:23 UTC 2023
+#@# area and vertex vol lh Sun Aug 13 12:01:23 UTC 2023
+#@# white curv rh Sun Aug 13 12:01:23 UTC 2023
+#@# white area rh Sun Aug 13 12:01:23 UTC 2023
+#@# pial curv rh Sun Aug 13 12:01:23 UTC 2023
+#@# pial area rh Sun Aug 13 12:01:23 UTC 2023
+#@# thickness rh Sun Aug 13 12:01:23 UTC 2023
+#@# area and vertex vol rh Sun Aug 13 12:01:23 UTC 2023
+#@# Cortical ribbon mask Sun Aug 13 12:01:23 UTC 2023
+recon-all -s sub-p010 finished without error at Sun Aug 13 12:10:10 UTC 2023
+
+
+
+#New# invocation of recon-all 
+
+
+
+status file for recon-all
+Sun Aug 13 12:45:19 UTC 2023
+#@# white curv lh Sun Aug 13 12:45:19 UTC 2023
+#@# white area lh Sun Aug 13 12:45:19 UTC 2023
+#@# pial curv lh Sun Aug 13 12:45:19 UTC 2023
+#@# pial area lh Sun Aug 13 12:45:19 UTC 2023
+#@# thickness lh Sun Aug 13 12:45:19 UTC 2023
+#@# area and vertex vol lh Sun Aug 13 12:45:19 UTC 2023
+#@# white curv rh Sun Aug 13 12:45:19 UTC 2023
+#@# white area rh Sun Aug 13 12:45:20 UTC 2023
+#@# pial curv rh Sun Aug 13 12:45:20 UTC 2023
+#@# pial area rh Sun Aug 13 12:45:20 UTC 2023
+#@# thickness rh Sun Aug 13 12:45:20 UTC 2023
+#@# area and vertex vol rh Sun Aug 13 12:45:20 UTC 2023
+#@# Curvature Stats lh Sun Aug 13 12:45:20 UTC 2023
+#@# Curvature Stats rh Sun Aug 13 12:45:23 UTC 2023
+#@# Relabel Hypointensities Sun Aug 13 12:45:26 UTC 2023
+#@# APas-to-ASeg Sun Aug 13 12:45:45 UTC 2023
+#@# AParc-to-ASeg aparc Sun Aug 13 12:45:55 UTC 2023
+#@# AParc-to-ASeg aparc.a2009s Sun Aug 13 12:47:02 UTC 2023
+#@# AParc-to-ASeg aparc.DKTatlas Sun Aug 13 12:48:09 UTC 2023
+#@# WMParc Sun Aug 13 12:49:16 UTC 2023
+#@# ASeg Stats Sun Aug 13 12:51:45 UTC 2023
+recon-all -s sub-p010 finished without error at Sun Aug 13 12:52:16 UTC 2023

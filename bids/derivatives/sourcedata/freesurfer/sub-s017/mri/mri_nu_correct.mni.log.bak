@@ -1,0 +1,24 @@
+/project/data/bids/derivatives/sourcedata/freesurfer/sub-s017/mri
+/opt/freesurfer/bin/mri_nu_correct.mni
+--no-rescale --i orig.mgz --o orig_nu.mgz --ants-n4 --n 1 --proto-iters 1000 --distance 50
+nIters 1
+mri_nu_correct.mni 7.3.2
+Linux redshirt-n21 3.10.0-1160.59.1.el7.x86_64 #1 SMP Tue Feb 22 16:51:50 EST 2022 x86_64 x86_64 x86_64 GNU/Linux
+Mon Aug 14 01:12:31 UTC 2023
+tmpdir is ./tmp.mri_nu_correct.mni.9958
+cd /project/data/bids/derivatives/sourcedata/freesurfer/sub-s017/mri
+AntsN4BiasFieldCorrectionFs -i orig.mgz -o ./tmp.mri_nu_correct.mni.9958/nu0.mgz --dtype uchar
+AntsN4BiasFieldCorrectionFs done
+mri_convert ./tmp.mri_nu_correct.mni.9958/nu0.mgz orig_nu.mgz --like orig.mgz --conform
+mri_convert ./tmp.mri_nu_correct.mni.9958/nu0.mgz orig_nu.mgz --like orig.mgz --conform 
+reading from ./tmp.mri_nu_correct.mni.9958/nu0.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 0, 3.72529e-09)
+j_ras = (3.72529e-09, 0, -1)
+k_ras = (0, 1, 0)
+INFO: transform src into the like-volume: orig.mgz
+writing to orig_nu.mgz...
+ 
+ 
+Mon Aug 14 01:16:43 UTC 2023
+mri_nu_correct.mni done

@@ -1,0 +1,41 @@
+status file for recon-all
+Sat Aug 12 13:46:23 UTC 2023
+#@# MotionCor Sat Aug 12 13:46:27 UTC 2023
+#@# Talairach Sat Aug 12 13:46:37 UTC 2023
+#@# Talairach Failure Detection Sat Aug 12 13:51:04 UTC 2023
+#@# Nu Intensity Correction Sat Aug 12 13:51:04 UTC 2023
+#@# Intensity Normalization Sat Aug 12 13:55:23 UTC 2023
+recon-all -s sub-p013 finished without error at Sat Aug 12 13:56:55 UTC 2023
+
+
+
+#New# invocation of recon-all 
+
+
+
+status file for recon-all
+Sat Aug 12 14:17:44 UTC 2023
+#@# EM Registration Sat Aug 12 14:17:44 UTC 2023
+recon-all -s sub-p013 finished without error at Sat Aug 12 14:20:20 UTC 2023
+
+
+
+#New# invocation of recon-all 
+
+
+
+status file for recon-all
+Sat Aug 12 14:20:23 UTC 2023
+#@# CA Normalize Sat Aug 12 14:20:23 UTC 2023
+#@# CA Reg Sat Aug 12 14:21:31 UTC 2023
+#@# SubCort Seg Sat Aug 12 15:14:39 UTC 2023
+
+
+
+#New# invocation of recon-all 
+
+
+
+status file for recon-all
+Sun Aug 20 10:51:41 UTC 2023
+#@# SubCort Seg Sun Aug 20 10:51:41 UTC 2023
