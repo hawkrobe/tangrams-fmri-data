@@ -65,3 +65,4 @@ datalad siblings -d "<path>" enable -s dropbox-fmri
 ## v0.0.2 (8/18/2023)
 
 * Added `bids/` directory with the BIDS-compliant output of `heudiconv`
+* Corrected prisma-side "Pretest/Posttest" run labels to match skyra-side "PreTest/PostTest"
