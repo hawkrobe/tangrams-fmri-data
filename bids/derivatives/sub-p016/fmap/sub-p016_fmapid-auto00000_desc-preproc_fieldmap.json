@@ -1,0 +1,24 @@
+{
+  "AnatomicalReference": "sub-p016_fmapid-auto00000_desc-epi_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-p016_fmapid-auto00000_desc-coeff_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00000",
+  "IntendedFor": [
+    "func/sub-p016_task-PostExposure_run-01_bold.nii.gz",
+    "func/sub-p016_task-PostTest_run-01_bold.nii.gz",
+    "func/sub-p016_task-PreExposure_run-01_bold.nii.gz",
+    "func/sub-p016_task-PreTest_run-01_bold.nii.gz",
+    "func/sub-p016_task-Repeated_run-01_bold.nii.gz",
+    "func/sub-p016_task-Repeated_run-02_bold.nii.gz",
+    "func/sub-p016_task-Repeated_run-03_bold.nii.gz",
+    "func/sub-p016_task-Repeated_run-04_bold.nii.gz",
+    "func/sub-p016_task-Repeated_run-05_bold.nii.gz",
+    "func/sub-p016_task-Repeated_run-06_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/project/data/bids/sub-p016/fmap/sub-p016_dir-AP_epi.nii.gz",
+    "/project/data/bids/sub-p016/fmap/sub-p016_dir-PA_epi.nii.gz"
+  ],
+  "Units": "Hz"
+}
