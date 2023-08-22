@@ -1,0 +1,84 @@
+Node: fmriprep_23_1_wf.single_subject_p013_wf.fmap_preproc_wf.wf_auto_00000.topup
+Working directory: /scratch/fmriprep_23_1_wf/single_subject_p013_wf/fmap_preproc_wf/wf_auto_00000/topup
+
+Node inputs:
+
+args = <undefined>
+config = /opt/conda/envs/fmriprep/lib/python3.10/site-packages/sdcflows/data/flirtsch/b02b0.cnf
+encoding_direction = ['y-', 'z']
+encoding_file = <undefined>
+environ = {'FSLOUTPUTTYPE': 'NIFTI_GZ'}
+estmov = <undefined>
+fwhm = <undefined>
+in_file = /scratch/fmriprep_23_1_wf/single_subject_p013_wf/fmap_preproc_wf/wf_auto_00000/to_las/sub-p013_dir-AP_epi_average_merged_padded_sliced_volregLAS.nii.gz
+interp = <undefined>
+max_iter = <undefined>
+minmet = <undefined>
+numprec = <undefined>
+out_base = <undefined>
+out_corrected = <undefined>
+out_field = <undefined>
+out_jac_prefix = jac
+out_logfile = <undefined>
+out_mat_prefix = xfm
+out_warp_prefix = warpfield
+output_type = NIFTI_GZ
+readout_times = [0.0386903, 0.0386903]
+reg_lambda = <undefined>
+regmod = <undefined>
+regrid = <undefined>
+scale = <undefined>
+splineorder = <undefined>
+ssqlambda = <undefined>
+subsamp = <undefined>
+warp_res = <undefined>
+
+Traceback (most recent call last):
+  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/nipype/pipeline/plugins/multiproc.py", line 67, in run_node
+    result["result"] = node.run(updatehash=updatehash)
+  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 527, in run
+    result = self._run_interface(execute=True)
+  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 645, in _run_interface
+    return self._run_command(execute)
+  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 771, in _run_command
+    raise NodeExecutionError(msg)
+nipype.pipeline.engine.nodes.NodeExecutionError: Exception raised while executing Node topup.
+
+Cmdline:
+	topup --config=/opt/conda/envs/fmriprep/lib/python3.10/site-packages/sdcflows/data/flirtsch/b02b0.cnf --datain=/scratch/fmriprep_23_1_wf/single_subject_p013_wf/fmap_preproc_wf/wf_auto_00000/topup/sub-p013_dir-AP_epi_average_merged_padded_sliced_volregLAS_encfile.txt --imain=/scratch/fmriprep_23_1_wf/single_subject_p013_wf/fmap_preproc_wf/wf_auto_00000/to_las/sub-p013_dir-AP_epi_average_merged_padded_sliced_volregLAS.nii.gz --out=sub-p013_dir-AP_epi_average_merged_padded_sliced_volregLAS_base --iout=sub-p013_dir-AP_epi_average_merged_padded_sliced_volregLAS_corrected.nii.gz --fout=sub-p013_dir-AP_epi_average_merged_padded_sliced_volregLAS_field.nii.gz --jacout=jac --logout=sub-p013_dir-AP_epi_average_merged_padded_sliced_volregLAS_topup.log --rbmout=xfm --dfout=warpfield
+Stdout:
+
+Stderr:
+	Error occurred when preparing to run topup
+	Exception thrown with message: Topup::TopupScan::TopupScan: third element of pevec must be zero
+Traceback:
+	Traceback (most recent call last):
+	  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/nipype/interfaces/base/core.py", line 453, in aggregate_outputs
+	    setattr(outputs, key, val)
+	  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/traits/trait_types.py", line 2699, in validate
+	    return TraitListObject(self, object, name, value)
+	  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/traits/trait_list_object.py", line 582, in __init__
+	    super().__init__(
+	  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/traits/trait_list_object.py", line 213, in __init__
+	    super().__init__(self.item_validator(item) for item in iterable)
+	  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/traits/trait_list_object.py", line 213, in <genexpr>
+	    super().__init__(self.item_validator(item) for item in iterable)
+	  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/traits/trait_list_object.py", line 865, in _item_validator
+	    return trait_validator(object, self.name, value)
+	  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/nipype/interfaces/base/traits_extension.py", line 330, in validate
+	    value = super(File, self).validate(objekt, name, value, return_pathlike=True)
+	  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/nipype/interfaces/base/traits_extension.py", line 135, in validate
+	    self.error(objekt, name, str(value))
+	  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/traits/base_trait_handler.py", line 74, in error
+	    raise TraitError(
+	traits.trait_errors.TraitError: Each element of the 'out_mats' trait of a TOPUPOutputSpec instance must be a pathlike object or string representing an existing file, but a value of '/scratch/fmriprep_23_1_wf/single_subject_p013_wf/fmap_preproc_wf/wf_auto_00000/topup/xfm_01.mat' <class 'str'> was specified.
+
+	During handling of the above exception, another exception occurred:
+
+	Traceback (most recent call last):
+	  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/nipype/interfaces/base/core.py", line 400, in run
+	    outputs = self.aggregate_outputs(runtime)
+	  File "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/nipype/interfaces/base/core.py", line 460, in aggregate_outputs
+	    raise FileNotFoundError(msg)
+	FileNotFoundError: No such file or directory '['/scratch/fmriprep_23_1_wf/single_subject_p013_wf/fmap_preproc_wf/wf_auto_00000/topup/xfm_01.mat', '/scratch/fmriprep_23_1_wf/single_subject_p013_wf/fmap_preproc_wf/wf_auto_00000/topup/xfm_02.mat']' for output 'out_mats' of a TOPUP interface
+

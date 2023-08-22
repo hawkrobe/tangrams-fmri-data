@@ -1,0 +1,15 @@
+{
+  "AnatomicalReference": "sub-p013_run-01_fmapid-auto00004_desc-magnitude_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-p013_run-01_fmapid-auto00004_desc-coeff0_fieldmap.nii.gz",
+    "sub-p013_run-01_fmapid-auto00004_desc-coeff1_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00004",
+  "IntendedFor": [
+    "func/sub-p013_task-PreTest_run-01_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/project/data/bids/sub-p013/func/sub-p013_task-PreTest_run-01_bold.nii.gz"
+  ],
+  "Units": "Hz"
+}
