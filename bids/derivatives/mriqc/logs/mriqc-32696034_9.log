@@ -1,0 +1,30 @@
+Purging modules
+Slurm job ID:  32696037
+Wed Aug 23 10:39:07 EDT 2023
+Running MRIQC on sub-p009
+AnacondaPy 5.3.1 is deprecated and should not be used for new work.
+
+	module anacondapy/5.3.1 loaded.
+	5.3.1 contains an old version of the conda command.
+	Use 'source activate' not 'conda activate' or you will get an error.
+	Newer modules with the YYYY.MM version format do not have this problem.
+	This version (5.3.1) should continue to be used with environments
+	created with it. Otherwise, you may get GLIBCXX_version errors.
+
+230823-14:39:27,110 cli IMPORTANT:
+	 
+    Running MRIQC version 23.1.0:
+      * BIDS dataset path: /bids.
+      * Output folder: /bids/derivatives/mriqc.
+      * Analysis levels: ['participant'].
+
+230823-14:54:37,483 nipype.interface WARNING:
+	 Estimated signal variation in the background was too small (MAD=0.0, sigma=5.863620885080742)
+230823-14:54:37,483 nipype.interface WARNING:
+	 Estimated signal variation in the background was too small (MAD=0.0, sigma=5.863620885080742)
+230823-14:54:37,483 nipype.interface WARNING:
+	 Estimated signal variation in the background was too small (MAD=0.0, sigma=5.863620885080742)
+230823-15:01:24,174 cli IMPORTANT:
+	 Participant level finished successfully.
+Finished running MRIQC on sub-p009
+Wed Aug 23 11:01:27 EDT 2023
