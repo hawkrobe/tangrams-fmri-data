@@ -1,8 +1,7 @@
-start	end	text
-13920	15920	Karate guy
-TRIAL2	34680	Oh, it's the angry policeman
+start	end	text	trial
+13920	15920	Karate guy	1
+15920	34680	Oh, it's the angry policeman	2
 51760	53760	It's the TV stand
-60040	62040	Oh
 68320	70320	It's it's John
 75440	77800	Or Don the horse the tail
 90880	93760	It's the guy with the bowl of ramen noodles

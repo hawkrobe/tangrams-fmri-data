@@ -1,7 +1,7 @@
-start	end	text
-0	16200	I don't know okay dog without front legs
-16200	24000	front legs not yeah yeah
-TRIAL2	29000	house with silo on the right sticking up the barn
+start	end	text	trial
+0	16200	I don't know okay dog without front legs	1
+16200	24000	front legs not yeah yeah	1
+24000	29000	house with silo on the right sticking up the barn	2
 39040	43080	house looking
 54760	65480	it looks like the one
 65480	73000	with the horses rearing up almost like vertically to the right

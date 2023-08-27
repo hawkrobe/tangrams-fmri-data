@@ -1,15 +1,15 @@
-start	end	text
-0	1000	Okay.
-1000	2000	Can you see?
-2000	3000	Yeah, I can hear you.
-3000	4000	Okay, this one is the tall one with the, like, diamond bouncing on the top.
-4000	5000	Okay.
-5000	6000	Uh, there it goes.
-6000	7000	Oh, no!
-7000	8000	Okay.
-8000	9000	Oh, that's not bad.
-9000	10000	Alright, we're still getting used to it.
-TRIAL2	11000	This one...
+start	end	text	trial
+0	1000	Okay.	1
+1000	2000	Can you see?	1
+2000	3000	Yeah, I can hear you.	1
+3000	4000	Okay, this one is the tall one with the, like, diamond bouncing on the top.	1
+4000	5000	Okay.	1
+5000	6000	Uh, there it goes.	1
+6000	7000	Oh, no!	1
+7000	8000	Okay.	1
+8000	9000	Oh, that's not bad.	1
+9000	10000	Alright, we're still getting used to it.	1
+10000	11000	This one...	2
 11000	12000	Yeah.
 13000	14000	This one is the house with the tree.
 14000	15000	Okay.

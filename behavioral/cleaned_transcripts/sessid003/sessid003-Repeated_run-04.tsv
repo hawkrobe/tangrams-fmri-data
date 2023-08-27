@@ -1,10 +1,10 @@
-start	end	text
-0	10000	It's the really simple guy.
-10000	13000	Oh, he's not so simple, maybe.
-13000	19000	He's not. He's probably got like a 401k. He's gonna retire soon.
-19000	22000	I don't know. A wife and kids, maybe.
-22000	24000	Mm, grandkids.
-TRIAL2	27000	Um, the rainbow soccer ball.
+start	end	text	trial
+0	10000	It's the really simple guy.	1
+10000	13000	Oh, he's not so simple, maybe.	1
+13000	19000	He's not. He's probably got like a 401k. He's gonna retire soon.	1
+19000	22000	I don't know. A wife and kids, maybe.	1
+22000	24000	Mm, grandkids.	1
+24000	27000	Um, the rainbow soccer ball.	2
 27000	31000	Yay. I'm gonna be like that guy.
 31000	39000	I do too.
 39000	42000	Uh, sad, sad rabbit.

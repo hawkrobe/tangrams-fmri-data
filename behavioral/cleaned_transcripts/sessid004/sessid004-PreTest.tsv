@@ -1,11 +1,11 @@
-start	end	text
-2000	4000	The selected shape kind of looks like
-4440	9400	It's got it's got a diamond head. It looks like it's kind of like a dog perched up to
-10160	13760	Greet someone or something got like an upside-down triangle
-14400	16400	Which looks like a tail
-17040	18520	Oh
-55360	57360	Okay
-TRIAL2	64000	It kind of this picture kind of looks like a man with walking to the left
+start	end	text	trial
+2000	4000	The selected shape kind of looks like	1
+4440	9400	It's got it's got a diamond head. It looks like it's kind of like a dog perched up to	1
+10160	13760	Greet someone or something got like an upside-down triangle	1
+14400	16400	Which looks like a tail	1
+17040	18520	Oh	1
+55360	57360	Okay	1
+57360	64000	It kind of this picture kind of looks like a man with walking to the left	2
 64000	67080	He's got his toe pointed up to the left a diamond head
 71000	73000	Ah
 74600	76600	The other

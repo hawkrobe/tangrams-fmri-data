@@ -1,8 +1,8 @@
-start	end	text
-0	24060	Okay, so it looks like it's got a person with three middle pieces and a diamond head.
-24060	29300	The top arm is outstretched to the left, and it's got a little triangle on the bottom
-29300	45460	right, and it's got a little triangle with the point downward on the bottom right.
-TRIAL2	54420	It's square with a long chimney on the left, very simple, it's going to be like a swan
+start	end	text	trial
+0	24060	Okay, so it looks like it's got a person with three middle pieces and a diamond head.	1
+24060	29300	The top arm is outstretched to the left, and it's got a little triangle on the bottom	1
+29300	45460	right, and it's got a little triangle with the point downward on the bottom right.	1
+45460	54420	It's square with a long chimney on the left, very simple, it's going to be like a swan	2
 54740	67220	It looks like a square on the bottom with a long, skinny part sticking up on the rectangle on the left.
 67220	69380	Wait, sorry, can you say that again one more time?
 69380	73940	A square on the bottom with a long, skinny rectangle sticking up on the left.

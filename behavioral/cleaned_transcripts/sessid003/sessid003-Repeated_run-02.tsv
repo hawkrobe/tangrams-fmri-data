@@ -1,7 +1,7 @@
-start	end	text
-0	14560	Okay, it's the really simple guy with no arms.
-14560	20360	The one who's like praying kind of thing too.
-TRIAL2	35200	Okay, this is like the tall one with the square bouncing on top.
+start	end	text	trial
+0	14560	Okay, it's the really simple guy with no arms.	1
+14560	20360	The one who's like praying kind of thing too.	1
+30080	35200	Okay, this is like the tall one with the square bouncing on top.	2
 35200	37600	It doesn't look like a person or a dog.
 37600	37920	Yeah.
 47360	50720	It's the guy who looks like he's begging.

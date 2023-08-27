@@ -3,7 +3,7 @@ start	end	text
 30000	39000	Okay, so this one kind of looks like a dog that's facing to the left.
 39000	44000	Okay, I think I got it.
 44000	46000	Yes, you got it.
-46000	64000	Um, this one I got wrong last time, but you said that it was like someone asking for food, but it doesn't quite look like a person.
+TRIAL2	64000	Um, this one I got wrong last time, but you said that it was like someone asking for food, but it doesn't quite look like a person.
 64000	66000	I think I know what it could be.
 66000	68000	Yeah.
 77000	82000	This is the one that I thought looked like a ghost.

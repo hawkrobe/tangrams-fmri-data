@@ -1,6 +1,6 @@
-start	end	text
-0	23480	Um it's the TV stand.
-TRIAL2	30480	It's the happy guy riding the chihuahua.
+start	end	text	trial
+0	23480	Um it's the TV stand.	1
+23480	30480	It's the happy guy riding the chihuahua.	2
 30480	31480	Yay.
 31480	32480	It's the sad bear with the smelly towel.
 32480	33480	Yeah.

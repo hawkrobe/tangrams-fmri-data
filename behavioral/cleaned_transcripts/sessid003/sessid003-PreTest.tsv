@@ -1,11 +1,11 @@
-start	end	text
-0	5360	Oh, his back is straight, like a straight 90 degree angle.
-5360	15800	Is there like a square on the top that's his back, but it's like diagonal, almost?
-15800	18840	The square, it's like a perfect diamond head.
-18840	21120	He has one arm sticking out.
-21120	24120	To the right?
-24120	25120	Yes.
-TRIAL2	34120	Okay.
+start	end	text	trial
+0	5360	Oh, his back is straight, like a straight 90 degree angle.	1
+5360	15800	Is there like a square on the top that's his back, but it's like diagonal, almost?	1
+15800	18840	The square, it's like a perfect diamond head.	1
+18840	21120	He has one arm sticking out.	1
+21120	24120	To the right?	1
+24120	25120	Yes.	1
+32120	34120	Okay.	2
 34120	42120	It looks like another person who's like running really fast and pointing at somebody, but
 42120	44120	he's pointing to the left.
 66120	67120	Okay.

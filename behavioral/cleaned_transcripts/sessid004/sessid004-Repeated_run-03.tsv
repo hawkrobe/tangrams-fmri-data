@@ -1,7 +1,7 @@
-start	end	text
-0	27800	Okay. Can I start? Huh? I'll start? Okay. So, the first figure is like a horse rearing
-27800	36280	to the right, and it has two hanging triangles for arms for hands, and a parallelogram body, face.
-TRIAL2	53160	The next figure is like a long stick with two triangles embedded into it. Yeah.
+start	end	text	trial
+0	27800	Okay. Can I start? Huh? I'll start? Okay. So, the first figure is like a horse rearing	1
+27800	36280	to the right, and it has two hanging triangles for arms for hands, and a parallelogram body, face.	1
+36280	53160	The next figure is like a long stick with two triangles embedded into it. Yeah.	2
 57800	67080	The next is like a rectangle for a body, a long thin neck, and a triangle head, like a bird.
 67080	94600	The next figure is like a dog jumping to the right, and it has a diamond head, a larger square. Yeah.
 97080	108360	The next is like an ornament, a Christmas ornament, and it has two squares on top of each other.

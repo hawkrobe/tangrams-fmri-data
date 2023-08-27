@@ -1,6 +1,6 @@
-start	end	text
-0	21960	Okay, so the first figure is a person balancing on one leg, and it has a foot.
-TRIAL2	51080	Okay, the second figure is a person with a small triangle head, and it's holding a diamond.
+start	end	text	trial
+0	21960	Okay, so the first figure is a person balancing on one leg, and it has a foot.	1
+21960	51080	Okay, the second figure is a person with a small triangle head, and it's holding a diamond.	2
 51080	57440	The next figure is a person leaning toward the left, with two arms outstretched, and
 57440	69840	arms are parallel aground.
 69840	85840	The next figure is a dog with a foot-like missing.

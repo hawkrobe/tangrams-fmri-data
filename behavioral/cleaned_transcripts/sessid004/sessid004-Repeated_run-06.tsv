@@ -1,6 +1,6 @@
-start	end	text
-0	28000	Uh, standing on one leg, uh, two triangles, on the, um...
-TRIAL2	34000	Uh, water fountain with diamond on top.
+start	end	text	trial
+0	28000	Uh, standing on one leg, uh, two triangles, on the, um...	1
+28000	34000	Uh, water fountain with diamond on top.	2
 44000	53000	Um, the woman with the three, the belt wearing a dress and the little triangle on the bottom right for a foot.
 59000	66000	The stick with two triangles embedded into it.
 66000	85000	The symmetric one with the two parallelogram arms pointing towards each other.

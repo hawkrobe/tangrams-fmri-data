@@ -1,9 +1,6 @@
 start	end	text
-0	3000	Let's do it.
-3000	11000	Okay, perfect.
-11000	29000	Yes.
 29000	47000	It's the flamingo flying to the right.
-47000	65000	Pistol squad.
+TRIAL2	65000	Pistol squad.
 65000	83000	Top down view of a crab.
 83000	85000	Bunny facing right.
 85000	103000	Bunny on a mountain as you describe it.

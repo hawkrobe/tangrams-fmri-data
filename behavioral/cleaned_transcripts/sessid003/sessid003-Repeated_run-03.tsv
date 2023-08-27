@@ -1,6 +1,6 @@
-start	end	text
-0	25000	Okay, it's the dancing karate guy.
-TRIAL2	32000	It is the smelly fowl guy.
+start	end	text	trial
+0	25000	Okay, it's the dancing karate guy.	1
+25000	32000	It is the smelly fowl guy.	2
 32000	35000	Yeah.
 35000	48000	The bear.
 48000	54000	It's the horse with the big tail, not the flat butt.
