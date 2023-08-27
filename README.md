@@ -15,7 +15,7 @@ datalad clone git@github.com:hawkrobe/tangrams-fmri-data.git
 
 * [Install `rclone`](https://rclone.org/install)
 * [Install `git-annex-remote-rclone`](https://github.com/git-annex-remote-rclone/git-annex-remote-rclone)
-* Run `rclone config` in the directory and use these settings:
+* Run `rclone config` in the directory and use the following settings as you work through the prompts:
 
 ```
 $ rclone config
@@ -39,6 +39,14 @@ datalad siblings -d "<path>" enable -s dropbox-fmri
 ```
 
 * Now you can pull down any files you want, e.g. `datalad get bids/sub-p002/*` will download the raw `nii` files associated with subject `p002`. 
+
+# `bids` Directory Structure
+
+TODO
+
+# `masks` Directory Structure
+
+TODO
 
 # `behavioral` Directory Structure
 
