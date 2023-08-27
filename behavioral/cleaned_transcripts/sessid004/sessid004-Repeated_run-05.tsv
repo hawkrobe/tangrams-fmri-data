@@ -1,10 +1,6 @@
 start	end	text
-0	21960	Okay, so the first figure is a person balancing on one leg, and it has a foot- oops, do you
-21960	22960	hear me?
-22960	23960	Yeah, yeah, sorry, I'm in the wrong direction.
-23960	24960	Oh, okay.
-24960	25960	Okay.
-25960	51080	Okay, the second figure is a person with a small triangle head, and it's holding a diamond.
+0	21960	Okay, so the first figure is a person balancing on one leg, and it has a foot.
+TRIAL2	51080	Okay, the second figure is a person with a small triangle head, and it's holding a diamond.
 51080	57440	The next figure is a person leaning toward the left, with two arms outstretched, and
 57440	69840	arms are parallel aground.
 69840	85840	The next figure is a dog with a foot-like missing.
