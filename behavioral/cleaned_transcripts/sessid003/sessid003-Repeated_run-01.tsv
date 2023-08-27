@@ -10,94 +10,88 @@ start	end	text	trial
 8000	9000	Oh, that's not bad.	1
 9000	10000	Alright, we're still getting used to it.	1
 10000	11000	This one...	2
-11000	12000	Yeah.
-13000	14000	This one is the house with the tree.
-14000	15000	Okay.
-15000	16000	Got it.
-16000	17000	Yay.
-17000	24000	This will help, because I can just say we're not going to get there.
-24000	25000	Okay.
-25000	30000	It's going to be a lot of fun.
-30000	49000	It's a soccer player bouncing the soccer ball on the top.
-49000	50000	Oh, yeah.
-50000	51000	It's the guy with the bowl.
-51000	52000	Oh, there he is.
-54000	55000	It's the guy with the one, um, yeah.
-55000	56000	Yeah, I got it.
-64000	65000	Uh, this is the one that you said was really simple.
-65000	66000	He's just kind of like sitting.
-76000	100560	Hm, everytime I have a bad moment, I'm always trying to come up with plans.
-100560	115560	This guy is, like, running to the left, and his head is bouncing on top.
-115560	117560	Yeah, there you go.
-117560	118560	Yeah.
-120560	131560	Um, this is, like, a weird dog thing, but there's two of these.
-131560	138560	It's the one that looks more like a dog, maybe, and less like a horse.
-138560	143560	It has, like, a completely flat, like, square butt.
-155560	157560	Yeah.
-157560	159560	Oh, this is the shitting duck.
-159560	173560	Yes.
-173560	180560	This is like the other dog-horse figure, but this one has, like, a tail that sticks up to the right.
-180560	182560	Yeah.
-191560	199560	This guy is, like, oh, this is the one, okay, it's kind of, like, holding a bull or something to the right,
-199560	206560	but it has, like, two connected diamond heads on top, like, one on top of the other.
-206560	208560	Oh.
-208560	209560	And...
-209560	212560	Does it look like they're, like, on their knees?
-212560	226560	Yeah, it does, yeah. Yeah, yay.
-226560	232560	This one is kind of similar to the one we just did, but, like, it looks like their knees are bent instead of sitting,
-232560	234560	and there's only one diamond head.
-234560	235560	I see.
-236560	238560	Yeah.
-238560	250560	Yeah.
-250560	252560	This is the fountain that you want.
-252560	255560	Aw.
-255560	257560	Maybe I wanted my front yard.
-257560	268560	Maybe you get two.
-268560	273560	This dude is the one that's, like, looking down with, like, two...
-273560	277560	He's got, like, a headdress on with, like, two big triangles.
-277560	281560	I don't remember how you described it, but his head is, like, a square,
-281560	284560	and then there's, like, two big triangles protruding from the top.
-284560	286560	He looks like a rabbit, right?
-286560	287560	Yeah, yeah, yeah.
-287560	289560	All right.
-289560	292560	Poor Pugs Bunny.
-292560	299560	He looks so sad.
-299560	301560	Oh, this is the little guy.
-301560	305560	I think he said he was riding a Chihuahua, except there's two of those.
-305560	312560	So this is the one where, like, the person kind of looks like he's, like, lying alongside, like, on top.
-312560	314560	There's, like, a...
-314560	316560	Is he looking down or looking up?
-316560	319560	He's looking up.
-319560	330560	Yeah.
-330560	335560	Um, this is the one that kind of looks like a TV stand, almost.
-335560	336560	It's, like, sideways.
-336560	337560	Oh, yeah.
-337560	342560	It's, like, a big view on a triangle.
-342560	353560	Yeah.
-353560	357560	Okay, this is the other little guy riding a Chihuahua, but he's looking down,
-357560	360560	and his tail thing is pointing up.
-360560	361560	Yeah.
-361560	363560	He's not enjoying it.
-363560	368560	No.
-368560	371560	This guy kind of looks like he's dancing.
-371560	377560	Um, he's got, like, his arm out to the right and his knee out to the left,
-377560	381560	but his knee is, like, bent back and inwards,
-381560	386560	and his body is a square basically on the, like, on the left half.
-386560	387560	Okay.
-387560	399560	Karate guy.
-399560	403560	This one kind of looks like a bear to me or, like, a bird or something.
-403560	407560	It's, like, either two distinct legs, but then the body is just, like, a big block,
-407560	413560	and then there's, like, a little square that looks like a backpack or something kind of.
-413560	416560	And the head is, like, a bead.
-416560	418560	We haven't done this one yet.
-418560	421560	Oh.
-421560	427560	He's, like, standing on one leg, and one leg is up and to the left,
-427560	429560	and he's facing to the left.
-429560	433560	He's kind of, like, looking down, and there's, like, a block.
-433560	436560	There's, like, a square on top of his, like, shoulders.
-436560	437560	Hey.
-437560	438560	Yay.
-438560	440560	We did do this one.
-440560	441560	We did?
-441560	443560	Yeah, it's the guy with the smelly towel.
-443560	445560	Oh.
+11000	12000	Yeah.	2
+13000	14000	This one is the house with the tree.	2
+14000	15000	Okay.	2
+15000	16000	Got it.	2
+16000	17000	Yay.	2
+17000	24000	This will help, because I can just say what you said already.	2
+24000	25000	Okay.	3
+30000	49000	It's a soccer player bouncing the soccer ball on the top.	3
+49000	50000	Oh, yeah.	3
+50000	51000	It's the guy with the bowl.	4
+51000	52000	Oh, there he is.	4
+54000	55000	It's the guy with the one, um, yeah.	4
+55000	56000	Yeah, I got it.	4
+64000	65000	Uh, this is the one that you said was really simple.	5
+65000	66000	He's just kind of like sitting, not really doing anything.	5
+100560	115560	This guy is, like, running to the left, and his head is bouncing on top.	6
+115560	117560	Yeah, there you go.	6
+120560	131560	Um, this is, like, a weird dog thing, but there's two of these.	7
+131560	138560	It's the one that looks more like a dog, maybe, and less like a horse.	7
+138560	143560	It has, like, a completely flat, like, square butt.	7
+155560	157560	Yeah.	7
+157560	159560	Oh, this is the shitting duck.	8
+159560	173560	Yes.	8
+173560	180560	This is like the other dog-horse figure, but this one has, like, a tail that sticks up to the right.	9
+191560	199560	This guy is, like, oh, this is the one, okay, it's kind of, like, holding a bowl or something to the right,	10
+199560	206560	but it has, like, two connected diamond heads on top, like, one on top of the other.	10
+206560	208560	Oh.	10
+208560	209560	And...	10
+209560	212560	Does it look like they're, like, on their knees?	10
+212560	226560	Yeah, it does, yeah. Yeah, yay.	10
+226560	232560	This one is kind of similar to the one we just did, but, like, it looks like their knees are bent instead of sitting,	11
+232560	234560	and there's only one diamond head and they're like holding a bowl to the right.	11
+238560	250560	Yeah.	11
+250560	252560	This is the fountain that you want.	12
+252560	255560	Aw.	12
+255560	257560	Maybe I wanted my front yard.	12
+257560	268560	Maybe you get two.	12
+268560	273560	This dude is the one that's, like, looking down with, like, two...	13
+273560	277560	He's got, like, a headdress on with, like, two big triangles.	13
+277560	281560	I don't remember how you described it, but his head is, like, a square,	13
+281560	284560	and then there's, like, two big triangles protruding from the top.	13
+284560	286560	He looks like a rabbit, right?	13
+286560	287560	Yeah, yeah, yeah.	13
+287560	289560	All right.	13
+289560	292560	Poor Bugs Bunny.	13
+292560	299560	He looks so sad.	13
+299560	301560	Oh, this is the little guy.	14
+301560	305560	I think he said he was riding a Chihuahua, except there's two of those.	14
+305560	312560	So this is the one where, like, the person kind of looks like he's, like, lying alongside, like, on top.	14
+312560	314560	There's, like, a...	14
+314560	316560	Is he looking down or looking up?	14
+316560	319560	He's looking up.	14
+319560	330560	Yeah.	14
+330560	335560	Um, this is the one that kind of looks like a TV stand, almost.	15
+335560	336560	It's, like, sideways.	15
+336560	337560	Oh, yeah.	15
+337560	342560	It's, like, a big view on a triangle.	15
+342560	353560	Yeah.	15
+353560	357560	Okay, this is the other little guy riding a Chihuahua, but he's looking down,	16
+357560	360560	and his tail thing is pointing up.	16
+360560	361560	Yeah.	16
+361560	363560	He's not enjoying it.	16
+363560	368560	No.	16
+368560	371560	This guy kind of looks like he's dancing.	17
+371560	377560	Um, he's got, like, his arm out to the right and his knee out to the left,	17
+377560	381560	but his knee is, like, bent back and inwards,	17
+381560	386560	and his body is a square basically on the, like, on the left half.	17
+386560	387560	Okay.	17
+387560	399560	Karate guy	17.
+399560	403560	This one kind of looks like a bear to me or, like, a bird or something.	18
+403560	407560	It's, like, either two distinct legs, but then the body is just, like, a big block,	18
+407560	413560	and then there's, like, a little square that looks like a backpack or something kind of.	18
+413560	416560	And the head is, like, a bead.	18
+416560	418560	We haven't done this one yet.	18
+418560	421560	Oh.	18
+421560	427560	He's, like, standing on one leg, and one leg is up and to the left,	18
+427560	429560	and he's facing to the left.	18
+429560	433560	He's kind of, like, looking down, and there's, like, a block.	18
+433560	436560	There's, like, a square on top of his, like, shoulders.	18
+436560	437560	Hey.	18
+437560	438560	Yay.	18
+438560	440560	We did do this one.	18
+440560	441560	We did?	18
+441560	443560	Yeah, it's the guy with the smelly towel.	18
+443560	445560	Oh.	18
