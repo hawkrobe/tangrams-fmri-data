@@ -1,4 +1,4 @@
-start	end	text
+start	end	text	trial
 0	25000	This is a person stepping to the left.
 25000	54000	This is somebody stepping to the right.
 54000	72000	This is a really skinny shape. It has two triangles on each side.
