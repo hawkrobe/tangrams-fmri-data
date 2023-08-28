@@ -1,164 +1,98 @@
-start	end	text	trial
-0	4000	その後、アイテムを使用することができます。
-4000	8000	アイテムを使用することができます。
-8000	12000	アイテムを使用することができます。
-12000	16000	アイテムを使用することができます。
-16000	20000	アイテムを使用することができます。
-20000	24000	アイテムを使用することができます。
-24000	28000	アイテムを使用することができます。
-28000	32000	アイテムを使用することができます。
-32000	36000	アイテムを使用することができます。
-36000	40000	アイテムを使用することができます。
-40000	44000	アイテムを使用することができます。
-44000	48000	アイテムを使用することができます。
-48000	52000	アイテムを使用することができます。
-52000	56000	アイテムを使用することができます。
-56000	60000	アイテムを使用することができます。
-60000	64000	アイテムを使用することができます。
-64000	68000	アイテムを使用することができます。
-68000	72000	アイテムを使用することができます。
-72000	76000	アイテムを使用することができます。
-76000	80000	アイテムを使用することができます。
-80000	84000	アイテムを使用することができます。
-84000	88000	アイテムを使用することができます。
-88000	92000	アイテムを使用することができます。
-92000	96000	アイテムを使用することができます。
-96000	100000	アイテムを使用することができます。
-100000	104000	アイテムを使用することができます。
-104000	108000	アイテムを使用することができます。
-108000	112000	アイテムを使用することができます。
-112000	116000	アイテムを使用することができます。
-116000	120000	アイテムを使用することができます。
-120000	124000	アイテムを使用することができます。
-124000	128000	アイテムを使用することができます。
-128000	132000	アイテムを使用することができます。
-132000	136000	アイテムを使用することができます。
-136000	140000	アイテムを使用することができます。
-140000	144000	アイテムを使用することができます。
-144000	148000	アイテムを使用することができます。
-148000	152000	アイテムを使用することができます。
-152000	156000	アイテムを使用することができます。
-156000	160000	アイテムを使用することができます。
-160000	164000	アイテムを使用することができます。
-164000	168000	アイテムを使用することができます。
-168000	172000	アイテムを使用することができます。
-172000	176000	アイテムを使用することができます。
-176000	180000	アイテムを使用することができます。
-180000	184000	アイテムを使用することができます。
-196000	200000	アイテムを使用することができます。
-200000	204000	アイテムを使用することができます。
-204000	208000	アイテムを使用することができます。
-208000	212000	アイテムを使用することができます。
-212000	216000	アイテムを使用することができます。
-216000	220000	アイテムを使用することができます。
-220000	224000	アイテムを使用することができます。
-224000	228000	アイテムを使用することができます。
-228000	232000	アイテムを使用することができます。
-232000	236000	アイテムを使用することができます。
-250000	254000	アイテムを使用することができます。
-254000	258000	アイテムを使用することができます。
-258000	262000	アイテムを使用することができます。
-266000	270000	アイテムを使用することができます。
-270000	274000	アイテムを使用することができます。
-274000	278000	アイテムを使用することができます。
-278000	282000	アイテムを使用することができます。
-282000	286000	アイテムを使用することができます。
-286000	290000	アイテムを使用することができます。
-290000	294000	アイテムを使用することができます。
-294000	298000	アイテムを使用することができます。
-298000	302000	アイテムを使用することができます。
-302000	306000	アイテムを使用することができます。
-306000	310000	アイテムを使用することができます。
-310000	314000	アイテムを使用することができます。
-322000	326000	アイテムを使用することができます。
-326000	330000	アイテムを使用することができます。
-330000	334000	アイテムを使用することができます。
-334000	338000	アイテムを使用することができます。
-338000	342000	アイテムを使用することができます。
-342000	346000	アイテムを使用することができます。
-346000	350000	アイテムを使用することができます。
-350000	354000	アイテムを使用することができます。
-354000	358000	アイテムを使用することができます。
-358000	362000	アイテムを使用することができます。
-362000	366000	アイテムを使用することができます。
-366000	370000	アイテムを使用することができます。
-370000	374000	アイテムを使用することができます。
-374000	378000	アイテムを使用することができます。
-378000	382000	アイテムを使用することができます。
-382000	386000	アイテムを使用することができます。
-386000	390000	アイテムを使用することができます。
-390000	394000	アイテムを使用することができます。
-394000	398000	アイテムを使用することができます。
-410000	414000	アイテムを使用することができます。
-414000	418000	アイテムを使用することができます。
-418000	422000	アイテムを使用することができます。
-424000	428000	アイテムを使用することができます。
-428000	432000	アイテムを使用することができます。
-432000	436000	アイテムを使用することができます。
-436000	440000	アイテムを使用することができます。
-440000	444000	アイテムを使用することができます。
-444000	448000	アイテムを使用することができます。
-448000	451000	スタンディングスタイルかクランシングか?
-451000	453000	もう一度言って
-454000	457000	スタンディングスタイルかクランシングか?
-459000	461000	うーん
-463000	465000	下を押して
-466000	470000	足は同じレベルではない
-478000	481000	スタンディングスタイルかクランシングか?
-482000	486000	このような
-487000	490000	右のトランクルのような
-491000	494000	頭と耳がある
-495000	498000	右のトランクルのような
-501000	504000	スタンディングスタイルかクランシングか?
-504000	507000	スタンディングスタイルかクランシングか?
-510000	513000	スタンディングスタイルかクランシングか?
-514000	516000	ああ、これ、
-517000	519000	人間が
-520000	523000	踊っているような
-524000	525000	足の一つの脚が
-526000	528000	横の脚が見えるものがない
-529000	530000	彼らは、
-560000	565000	彼らの全体、彼らの脚は実際に地面上にある。
-576000	580000	さて、この人の脚は非常に異なっている。
-581000	583000	彼らは左側に向かっている。
-583000	586000	一人は空中で、一人は地面上に平らになっている。
-591000	592000	結局背面に関係している。
-600000	602000	彼女は、後ろに、そろそろ暗闇を見せている。
-602000	607440	書いておきます
-607440	609440	くって、
-609440	625600	g
-625600	628600	dj
-628600	631600	dj
-631600	634600	dj
-634600	637600	dj
-637600	640600	dj
-640600	643600	dj
-643600	646600	dj
-646600	649600	dj
-649600	652600	dj
-652600	655600	dj
-655600	658600	dj
-658600	661600	dj
-661600	664600	dj
-664600	667600	dj
-667600	670600	dj
-670600	673600	dj
-673600	676600	dj
-676600	679600	dj
-679600	682600	dj
-682600	685600	dj
-685600	688600	dj
-688600	691600	dj
-691600	694600	dj
-694600	697600	dj
-697600	700600	dj
-700600	703600	dj
-703600	706600	dj
-706600	709600	dj
-709600	712600	dj
-712600	715600	dj
-715600	718600	dj
-718600	721600	dj
-721600	724600	dj
-724600	727600	dj
-727600	730600	dj
+start	end	text
+0	2000	You
+30000	32000	You
+37800	39800	All right
+40000	42500	So in the bottom left
+43320	47360	There is a triangle. It's an equilateral triangle
+48120	52120	The point of it is like in the point of the square
+53160	54920	so like
+54920	56920	the
+56960	58960	Like
+59400	63240	Okay, yeah, so the point of the triangle is like in the plane of square I
+65120	67120	Guess it's actually a right triangle
+69040	75480	Because one side is parallel to the top of the square the other side is parallel to like
+76120	78120	the sides of the square
+82160	84160	And then
+85160	90680	In addition there is a like rectangular shape
+91720	93720	that is
+94040	96040	Along the left diagonal
+114160	126320	Okay, this is like a small square on top of like the figure eight thing
+127720	129720	like arrowhead
+130440	132440	You
+143040	147120	Okay, this looks like a thin tall rectangle in the middle
+152400	157240	Technically not a rectangle because at the top it's like yeah
+160600	162600	You
+170760	173680	Okay, this is the one that kind of just looks like a hot mess
+175760	178720	There's like four triangles a square
+180440	182440	Rhombus
+190640	192640	You
+195360	199200	To me this looks like an angel looking towards the bottom left
+202760	204760	Squarehead
+205600	207600	Rhombus arms
+209440	211440	Rhombus body
+220720	222720	You
+228840	236280	Okay, someone is sitting down with their back and facing the right so yeah
+250720	254760	All righty, this looks like a small square in the bottom left
+256240	260040	But the main portion of it kind of looks like a swan
+266320	269640	The small square that's in the bottom left is touching
+270280	272280	at a point like
+272400	275440	the base of a triangle a
+276240	278240	right triangle
+280720	282240	And
+282240	288480	Then that triangle is attached to well, I guess another triangle. That's a right triangle
+289280	291280	in like the middle and
+291400	293400	then there's
+295440	300920	Rhombus sort of and like and then like a rectangle in the upper right and
+301920	304520	Then a right triangle the upper ish, right?
+309720	311720	If
+313240	319800	You're asking questions, I can't hear you. Okay. Okay. That's fine
+325960	327960	How can I describe this
+327960	329960	I
+335920	339080	This is like the only one that
+340480	342680	Has a like distinct
+344160	350640	Very small triangle that is touching but not really part of the bigger picture
+357960	359960	You
+367320	369320	All right
+371000	373000	From top down
+373440	375600	there is a diamond and
+376720	380040	then a short thin neck and
+381080	382640	then a
+382640	385880	Triangle that is facing like up
+386880	389920	Towards the middle ish a decent-sized one
+391280	396400	To the left of that triangle is a small triangle
+409640	412160	Okay, this is like a body
+413160	419000	I'm sort of like a one-year rabbit. I guess it's yeah
+435040	440080	And this looks animalistic facing the left
+442640	446480	Sort of like a pony with a tail
+451360	453360	Say that again
+465800	469280	Yeah, okay the legs are not on the same level
+472640	474640	I
+482600	485920	Okay, this kind of looks like a
+488520	493600	Right triangle that has a head and bunny ears
+496840	498840	Facing the right
+503160	505160	I
+513600	519960	Okay, this looks like a human who is dancing
+522240	529600	With one leg on the floor and the other leg not clearly visible. They are wearing like a skirt
+530600	535280	And they have like their arms facing the right
+549040	554840	This kind of looks like someone is kneeling down but
+555200	562520	Like not just like bending down like their entire like all of their shins are actually on the floor
+574520	576520	All righty
+576560	578800	This person has very distinct feet
+579040	584080	They're both facing the left one of them is in the air one of them is flat on the floor
+596800	599840	Like upside down L pretty much
+609160	611160	I
+616360	618920	Okay, this is kind of like
+620280	625120	Previous one like the kneeling down, but their shins are like not on the floor
+626120	628120	I
+634040	636040	I
+638840	641120	This is like the house with the chimney
+645760	647760	Like barn door
+656120	658120	I
+661120	663040	Okay
+663040	665040	This one is like
+665640	667640	animalistic, but just barely
+669160	672600	Like it looks like it has like four legs on the ground sort of
+674560	676560	Facing the left
+685120	687120	You
+709120	711120	Okay
+715120	718120	My back is killing me
