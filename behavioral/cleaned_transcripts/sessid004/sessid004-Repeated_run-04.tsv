@@ -2,22 +2,22 @@ start	end	text	trial
 0	20520	This is the one with the three middle sections and the little triangle on the bottom right	1
 20520	21520	pointing downwards.	1
 TRIAL2	43200	The one with the flower part pointing upwards and then a parallelogram on the bottom going	2
-43200	60080	down to the left, person sitting down looking to the left with their knees bent and toe
-60080	76000	pointing upwards.
-76000	87480	Standing on one leg with two large triangles.
-87480	106160	A horse rearing up to the right vertically.
-106160	126760	Water fountain, diamond on top, a rod with triangles embedded, a stick with the triangles
-126760	149360	embedded on either side, a person on a rock looking up and to the left with arms to the
-150360	151360	left.
-151360	176880	I think you described it as a person on a rock, the house one with the long tall building
-176880	194120	next to it, the man with the top hat and the two little triangle feet and the arm to
-194120	219840	the right, the dog with the missing front legs looking to the left, the dog with the
-220840	248040	The dog jumping up to the right with the upside down triangle for a tail and a diamond head.
-248080	264320	The symmetric one with two parallelogram arms on either side pointing towards each other.
-264320	269000	The person holding something with holding a block with a little triangle head that comes
-269000	280200	off at a point.
-280200	299120	Two with outstretched arms, just the torso, the arms and the head.
-299120	318200	The ornament with the two squares embedded into each other, it's like a very simple bird
-318200	335280	looking to the left of the square bottom and the long neck.
-335280	354360	This C with the bottom part missing, the top is a parallelogram.
-354360	382440	It's like a very simple bird looking to the left of the square bottom and the long neck.
+43200	60080	down to the left.	2
+60080	76000	person sitting down looking to the left with their knees bent and toe pointing upwards.	3
+76000	87480	Standing on one leg with two large triangles.	4
+87480	106160	A horse rearing up to the right vertically.	5
+106160	126760	Water fountain, diamond on top.	6
+126760	149360	a rod with triangles embedded, a stick with the triangles embedded on either side,	7
+150360	151360	a person on a rock looking up and to the left with arms to the left.	8
+151360	176880	I think you described it as a person on a rock.	8
+176880	194120	the house one with the long tall building next to it	9
+194120	219840	the man with the top hat and the two little triangle feet and the arm to the right.	10
+219840	220840	the dog with the missing front legs looking to the left, the dog with the...	11
+220840	248040	The dog jumping up to the right with the upside down triangle for a tail and a diamond head.	12
+248080	264320	The symmetric one with two parallelogram arms on either side pointing towards each other.	13
+264320	269000	The person holding something with holding a block with a little triangle head that comes	14
+269000	280200	off at a point.	14
+280200	299120	Two with outstretched arms, just the torso, the arms and the head.	15
+299120	318200	The ornament with the two squares embedded into each other.	16
+318200	335280	it's like a very simple bird looking to the left of the square bottom and the long neck.	17
+335280	354360	The C with the bottom part missing. the top is a parallelogram.	18
