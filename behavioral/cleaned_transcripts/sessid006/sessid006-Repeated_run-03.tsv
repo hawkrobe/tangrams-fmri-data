@@ -1,21 +1,20 @@
 start	end	text	trial
-0	29000	Okay, this looks like a candlestick, and there's some stuff on the left-hand side of the screen.
-29000	54000	This looks like a bunny or a rabbit, and it's facing the right.
-54000	78000	This looks like a person facing the right and is taking a step.
-78000	95000	This is a person riding a bull or a horse.
-95000	114000	This is a person who looks like he's standing on one leg. It is facing the left.
-114000	132000	This is symmetrical. It has a hexagonal base. It has a diamond on top.
-132000	154000	This looks like a person holding a bull, so it has a diamond on the right side and then a triangle shape on the left side that's a little lower.
-154000	172000	This looks like a person shrugging off to the left.
-172000	189000	This looks like somebody is taking a step or walking, and they're going to the left.
-189000	211000	This is one of the really weird shapes, so it's a little bit wider. It has a diamond at the top and the left is a straight line, but the right has some curves.
-211000	225000	This is a scuba diver shape.
-225000	241000	This is the crab shape. It's symmetrical.
-241000	261000	This is the scale or the seesaw shape that's tilted off to the right side.
-261000	277000	This is a shorter shape, so it's not as long or as tall as the other ones. It has a square and then a diamond, sorry, a square and then a triangle attached to the bottom corner of the shape and a triangle off to the left hand side too.
-277000	291000	This looks like a girl with a ponytail.
-291000	307000	This looks like a ghost or the tulip shape.
-307000	322000	This is the upside down pine tree.
-322000	344000	This looks like somebody kneeling and facing to the right hand side. There's two triangles on the right side.
-344000	373000	This is the swan shape with the little triangle on the bottom left.
-374000	394000	Okay, it was a movement, okay?
+0	29000	Okay, this looks like a candlestick, and there's some stuff on the left-hand side that's sticking out.	1
+29000	54000	This looks like a bunny or a rabbit, and it's facing the right.	2
+54000	78000	This looks like a person facing the right and is taking a step.	3
+78000	95000	This is a person riding a bull or a horse.	4
+95000	114000	This is a person who looks like he's standing on one leg. And he's facing the left.	5
+114000	132000	This is symmetrical. It has a hexagonal base. It has a diamond on top. Got it.	6
+132000	154000	This looks like a person holding a bowl, so it has a diamond on the right side and then a triangle shape on the left side that's a little lower.	7
+154000	172000	This looks like a person shrugging, off to the left.	8
+172000	189000	This looks like somebody is taking a step or walking, and they're going to the left.	9
+189000	211000	This is one of the really weird shapes, so it's a little bit wider. It has a diamond at the top and the left is a straight line, but the right has some curves.	10
+211000	225000	This is a scuba diver shape.	11
+225000	241000	This is the crab shape. It's symmetrical.	12
+241000	261000	This is the scale or the seesaw shape that's tilted off to the right side.	13
+261000	277000	This is a shorter shape, so it's not as long or as tall as the other ones. It has a square and then a diamond, sorry, a square and then a triangle attached to the bottom corner of the shape and a triangle off to the left hand side too.	14
+277000	291000	It looks like a girl with a ponytail.	14
+291000	307000	This looks like a ghost or the tulip shape.	15
+307000	322000	This is the upside down pine tree.	16
+322000	344000	This looks like somebody kneeling and facing to the right hand side. There's two triangles on the right side.	17
+344000	373000	This is the swan shape with the little triangle on the bottom left.	18

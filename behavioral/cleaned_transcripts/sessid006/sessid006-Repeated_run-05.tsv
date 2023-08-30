@@ -1,23 +1,21 @@
 start	end	text	trial
-0	23000	A person riding a horse, herbal.
-23000	52000	A person taking a step to the left.
-52000	68000	Somebody that's shrugging.
-68000	73000	Somebody kicking something to the left and standing on one leg.
-73000	88000	Facing the left side.
-88000	95000	This is a wider one and it has a straight side on the left, but it has some ridges on the right.
-95000	107000	Looks like a candlestick, right?
-107000	124000	A person holding a bowl or a cup.
-124000	141000	A swan.
-141000	156000	A candlestick.
-156000	174000	Somebody that's kneeling. It has two triangles on the right side.
-174000	190000	This is the hexagonal base and it's symmetrical.
-190000	206000	Upside down pipe country.
-206000	219000	This is the girl with the ponytail.
-219000	237000	The two left are the ghost shape.
-237000	253000	This is the bunny rabbit facing the right.
-253000	269000	This is the scale that's tilted to the right.
-269000	282000	The scuba diver.
-282000	297000	Somebody taking a step to the right.
-297000	324000	The crab shape. It's symmetrical.
-327000	351000	This is the girl with the ponytail.
-351000	375000	This is the girl with the ponytail.
+0	23000	A person riding a horse or a bull.	1
+23000	52000	A person taking a step to the left.	2
+52000	68000	Somebody that's shrugging.	3
+68000	73000	Somebody kicking something to the left and standing on one leg.	4
+73000	88000	Facing the left side.	4
+88000	95000	This is a wider one and it has a straight side on the left, but it has some ridges on the right.	5
+95000	107000	Looks like a candlestick. right.	5
+107000	124000	A person holding a bowl or a cup.	6
+124000	141000	A swan.	7
+141000	156000	A candlestick.	8
+156000	174000	Somebody that's kneeling. It has two triangles on the right side.	9
+174000	190000	This is the hexagonal base and it's symmetrical.	10
+190000	206000	Upside down pinecone.	11
+206000	219000	This is the girl with the ponytail.	12
+219000	237000	The tulip or the ghost shape.	13
+237000	253000	This is the bunny rabbit facing the right.	14
+253000	269000	This is the scale that's tilted to the right.	15
+269000	282000	The scuba diver.	16
+282000	297000	Somebody taking a step to the right.	17
+297000	324000	The crab shape. It's symmetrical.	18

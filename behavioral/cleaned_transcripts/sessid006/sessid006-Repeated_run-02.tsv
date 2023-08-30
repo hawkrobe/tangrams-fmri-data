@@ -1,50 +1,49 @@
 start	end	text	trial
-0	27000	Um, this is the one we said looked like had a ponytail, so dive in head, try and go on
-27000	28000	the right side.
-35000	36000	Got it.
-46000	49000	This is the person holding a wine glass.
-57000	63000	Uh, scuba diver.
-78000	81000	Uh, one that's riding a bull or horse.
-82000	84000	Oh, sorry, I pressed the wrong button.
-87000	95000	This is the upside down partying.
-113000	115000	The swan that's tilted to the right.
-116000	117000	This one?
-117000	118000	Yeah.
-133000	138000	Uh, the symmetrical one with a flattened hexagon as the base.
-141000	142000	Okay.
-145000	160000	It's a person taking a big step and has a triangle for a body.
-161000	163000	A person who's picking up what?
-163000	164000	A big step.
-165000	166000	Say that one more time.
-166000	168000	Big step or running.
-168000	169000	Okay, gotcha.
-175000	191000	Uh, diamond head has a squat body that's asymmetric.
-191000	193000	Uh, left side is straight.
-193000	195000	Right side has stuff missing.
-195000	196000	Okay.
-205000	217000	The candlestick with extra stuff on the left side.
-236000	241000	Uh, bunny facing the right.
-241000	243000	Say that one more time.
-243000	260000	It's like a rabbit facing the right with a triangle for the body.
-260000	262000	Looks like a tulip.
-262000	264000	Looks like a what?
-264000	265000	Tulip.
-265000	267000	Can you say that one more time?
-267000	269000	Tulip or a ghost.
-276000	278000	Did you say a dress?
-278000	279000	Tulip or a ghost.
-279000	280000	A tulip.
-280000	281000	Okay, thank you.
-295000	311000	Symmetric and looks like a crab.
-311000	333000	It's a person shrugging and tilted to the left.
-333000	340000	An overturned scale or seesaw.
-340000	342000	Can you say that one more time?
-342000	344000	It's a tilted seesaw or a scale.
-344000	345000	Gotcha.
-345000	370000	Uh, like a person can eat something.
-370000	386000	Uh, it's the weird one that has a diamond as a head slightly to the left and then a
-386000	390000	triangle below it and a triangle to the right.
-390000	401000	Okay.
-401000	405000	Like a person with one leg extended to the right.
-405000	407000	It's straight.
-435000	443000	Yeah.
+0	27000	Um, this is the one we said looked like had a ponytail, so dive in head, try and go on	1
+27000	28000	the right side.	1
+35000	36000	Got it.	1
+46000	49000	This is the person holding a wine glass.	2
+57000	63000	Uh, scuba diver.	3
+78000	81000	Uh, one that's riding a bull or horse.	4
+87000	95000	This is the upside down partying.	5
+113000	115000	The swan that's tilted to the right.	6
+116000	117000	This one?	6
+117000	118000	Yeah.	6
+133000	138000	Uh, the symmetrical one with a flattened hexagon as the base.	7
+141000	142000	Okay.	7
+145000	160000	It's a person taking a big step and has a triangle for a body.	8
+161000	163000	A person who's picking up what?	8
+163000	164000	A big step.	8
+165000	166000	Say that one more time.	8
+166000	168000	Big step or running.	8
+168000	169000	Okay, gotcha.	8
+175000	191000	Uh, diamond head has a squat body that's asymmetric.	9
+191000	193000	Uh, left side is straight.	9
+193000	195000	Right side has stuff missing.	9
+195000	196000	Okay.	9
+205000	217000	The candlestick with extra stuff on the left side.	10
+236000	241000	Uh, bunny facing the right.	11
+241000	243000	Say that one more time.	11
+243000	260000	It's like a rabbit facing the right with a triangle for the body.	11
+260000	262000	Looks like a tulip.	12
+262000	264000	Looks like a what?	12
+264000	265000	Tulip.	12
+265000	267000	Can you say that one more time?	12
+267000	269000	Tulip or a ghost.	12
+276000	278000	Did you say a dress?	12
+278000	279000	Tulip or a ghost.	12
+279000	280000	A tulip.	12
+280000	281000	Okay, thank you.	12
+295000	311000	Symmetric and looks like a crab.	13
+311000	333000	It's a person shrugging and tilted to the left.	14
+333000	340000	An overturned scale or seesaw.	15
+340000	342000	Can you say that one more time?	15
+342000	344000	It's a tilted seesaw or a scale.	15
+344000	345000	Gotcha.	15
+345000	370000	Uh, like a person can eat something.	16
+370000	386000	Uh, it's the weird one that has a diamond as a head slightly to the left and then a	17
+386000	390000	triangle below it and a triangle to the right.	17
+390000	401000	Okay.	17
+401000	405000	Like a person with one leg extended to the right.	18
+405000	407000	It's straight.	18
+435000	443000	Yeah.	18
