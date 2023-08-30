@@ -1,6 +1,6 @@
-start	end	text
+start	end	text	trial
 0	27000	Okay, this, again, looks like the password button in the hall, so it's the only one.
-27000	29000	Okay.
+TRIAL2	29000	Okay.
 29000	49000	Um, this is the one I said was a dancer again, where I had the longer sweeping leg on the
 49000	59000	left-hand side of the small triangle on the right.
 59000	69000	Um, this is the one with the guy with the knees, like, kind of bent on the right-hand

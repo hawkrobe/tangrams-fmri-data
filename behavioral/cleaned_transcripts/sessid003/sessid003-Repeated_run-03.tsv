@@ -1,57 +1,53 @@
-start	end	text
-0	25000	Okay, it's the dancing karate guy.
-25000	32000	It is the smelly fowl guy.
-32000	35000	Yeah.
-35000	48000	The bear.
-48000	54000	It's the horse with the big tail, not the flat butt.
-54000	64000	The horse dog, yeah.
-64000	70000	It's the dude that's sitting, praying, but his knees are bent. He's not sitting.
-70000	83000	Alright, yeah.
-83000	87000	It's the sad guy riding the chihuahua.
-87000	100000	Aww. I always feel for him.
-100000	102000	It's the happy guy riding the chihuahua.
-102000	117000	Aww. I feel for him too.
-117000	119000	It's the TV stand.
-119000	133000	Yeah.
-133000	136000	It's the dude with the bowl on the left.
-136000	149000	Ah, yes.
-149000	155000	It's the house with the tree.
-155000	158000	We'd have a pretty good life if we put all these images together.
-158000	159000	Honestly.
-159000	163000	Like a house, a fountain, a dog, and a chihuahua.
-163000	166000	And a goose that poops all over.
-166000	171000	This is the guy that's running to the left. He looks kind of angry.
-171000	172000	Ah, yes.
-172000	174000	He's definitely in a hurry.
-174000	176000	He's like, you there.
-176000	177000	Yeah, exactly.
-177000	179000	Stop trespassing.
-179000	180000	Maybe he's a policeman.
-180000	186000	He could be.
-186000	189000	This is the horse with the flat butt.
-189000	204000	Ah, yes.
-204000	207000	This dude is praying, but he's sitting.
-207000	221000	Ah, yes.
-221000	223000	It's the rabbit guy.
-223000	224000	Oh, mister.
-224000	226000	Oh, no. I hit the wrong button.
-226000	234000	Damn it.
-234000	236000	Are you doing my heart?
-236000	238000	It's the fountain one with the...
-238000	240000	No, no, no. Not the fountain.
-240000	242000	Okay.
-242000	246000	The tall one with the square bouncing on top.
-246000	249000	Yeah.
-249000	252000	It looks like a cool modern fountain.
-252000	259000	Yeah, it does look like one of those.
-259000	263000	It's the soccer player. He's about to do a rainbow with the ball.
-263000	277000	Ronaldo.
-277000	280000	It's the shitting goose.
-280000	295000	Oh, mister goose.
-295000	297000	Oh, it's my favorite fountain.
-297000	313000	Yeah.
-313000	325000	It's the really simple guy who's just, like, sitting there.
-325000	329000	I bet deep down inside he's a lot more complicated.
-329000	331000	He might be the most complicated of all.
-331000	338000	He could.
-338000	347000	Oh, there's still so much left.
+start	end	text	trial
+0	25000	Okay, it's the dancing karate guy.	1
+25000	32000	It is the smelly towl guy.	2
+32000	35000	Yeah.	2
+35000	48000	The bear.	3
+48000	54000	It's the horse with the big tail, not the flat butt.	4
+54000	64000	The horse dog, yeah.	4
+64000	70000	It's the dude that's sitting, praying, but his knees are bent. He's not sitting.	5
+70000	83000	Alright, yeah.	5
+83000	87000	It's the sad guy riding the chihuahua.	6
+87000	100000	Aww. I always feel for him.	6
+102000	117000	Aww. I feel for him too.	6
+117000	119000	It's the TV stand.	7
+119000	133000	Yeah.	7
+133000	136000	It's the dude with the bowl on the left.	8
+136000	149000	Ah, yes.	8
+149000	155000	It's the house with the tree.	9
+155000	158000	We'd have a pretty good life if we put all these images together.	9
+158000	159000	Honestly.	9
+159000	163000	Like a house, a fountain, a dog, and a chihuahua.	9
+163000	166000	And a goose that poops all over.	9
+166000	171000	This is the guy that's running to the left. He looks kind of angry.	10
+171000	172000	Ah, yes.	10
+172000	174000	He's definitely in a hurry.	10
+174000	176000	He's like, you there.	10
+176000	177000	Yeah, exactly.	10
+177000	179000	Stop trespassing.	10
+179000	180000	Maybe he's a policeman.	10
+180000	186000	He could be.	10
+186000	189000	This is the horse with the flat butt.	11
+189000	204000	Ah, yes.	11
+204000	207000	This dude is praying, but he's sitting.	12
+207000	221000	Ah, yes.	12
+221000	223000	It's the rabbit guy.	13
+223000	224000	Oh, mister...	13
+224000	226000	Oh, no. I hit the wrong button.	13
+226000	234000	Damn it.	13
+236000	238000	It's the fountain one with the...	14
+238000	240000	No, no, no. Not the fountain.	14
+240000	242000	Okay.	14
+242000	246000	The tall one with the square balancing on top. The not human, not animal.	14
+246000	249000	Yeah.	14
+249000	252000	It looks like a cool modern fountain.	14
+259000	263000	It's the soccer player. He's about to do a rainbow with the ball.	15
+263000	277000	Ronaldo.	15
+277000	280000	It's the shitting goose.	16
+280000	295000	Oh, mister goose.	16
+295000	297000	Oh, it's my favorite fountain.	17
+297000	313000	Yeah.	17
+313000	325000	It's the really simple guy who's just, like, sitting there.	18
+325000	329000	I bet deep down inside he's a lot more complicated.	18
+329000	331000	He might be the most complicated of all.	18
+331000	338000	He could.	18

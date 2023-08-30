@@ -1,6 +1,6 @@
-start	end	text
+start	end	text	trial
 0	4400	Yokosai
-13960	15640	Oh. Tank.
+TRIAL2	15640	Oh. Tank.
 31000	33000	Flamingo
 43000	45000	Crab
 45000	47000	Scorpion

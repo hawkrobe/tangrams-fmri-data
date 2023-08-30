@@ -1,11 +1,4 @@
-start	end	text
-0	4000	Wait, question.
-4000	6000	Okay.
-6000	8000	Thanks.
-8000	10000	Should the wire be coming out the left?
-10000	12000	Okay.
-12000	14000	Alright.
-14000	16000	Okay.
+start	end	text	trial
 26000	28000	Okay.
 28000	36000	This one seems, it's kind of like a horse or something with someone riding it moving left.
 36000	38000	Okay.
@@ -14,7 +7,7 @@ start	end	text
 42000	44000	Yeah.
 44000	52000	Okay.
 52000	54000	Okay.
-54000	66000	This is like someone kneeling facing right with like two triangle arms that are kind of like, wings are like outstretched with like triangle sleeves.
+TRIAL2	66000	This is like someone kneeling facing right with like two triangle arms that are kind of like, wings are like outstretched with like triangle sleeves.
 66000	70000	Okay.
 70000	74000	Kind of like kneeling with like a triangle like feet to the left.
 74000	80000	Does it have like a really small triangle feet to the right as well that's detached from the rest of the body?

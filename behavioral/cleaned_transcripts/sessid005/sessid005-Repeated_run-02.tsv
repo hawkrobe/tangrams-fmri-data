@@ -1,56 +1,44 @@
-start	end	text
-0	28000	Uh, so this is the sad way to go, sad way.
-28000	37000	This is the saloon puzzle.
-37000	38000	The leader dog?
-38000	39000	The leader dog.
-39000	54000	Yeah.
-54000	57000	This is the bath thing?
-57000	72000	Uh huh.
-72000	90000	This is the traffic light.
-90000	107000	Uh, the sunglasses.
-107000	123000	This is like the ballet dancer with the weird outstretched leg.
-123000	129000	This is the guy that's also dancing with the outstretched leg but with the weird trapezoid
-129000	131000	on the left side.
-131000	143000	Yeah.
-143000	149000	This is like the guy bending down with a book.
-149000	151000	You mean the bunny?
-151000	152000	Oh yeah, yeah.
-152000	153000	The bunny.
-153000	154000	That's okay.
-154000	155000	You don't have to call it the bunny.
-155000	156000	Yeah, but only one ear.
-156000	157000	Yeah.
-157000	158000	Yeah, it's like a side profile bunny.
-158000	159000	You know?
-159000	160000	Yeah.
-160000	171000	Uh, the guy that's bending at the Z towards the right is like a bull.
-171000	181000	Uh, this is like the other bunny ears.
-181000	182000	Yeah.
-182000	183000	Weirdest dog.
-183000	184000	This is the balloon dog.
-184000	185000	Balloon dog.
-185000	212000	This is like the guy that's feeling with no arms, no legs.
-212000	236000	This is the house with the mushroom house.
-236000	244000	It's like a piney house that's under a mushroom.
-244000	251000	Oh, this is the music stand or the one with the rectangle at the bottom.
-251000	256000	It's a music stand or a Nessie.
-256000	259000	You don't see the Nessie?
-259000	262000	Oh yeah, I actually...
-262000	277000	This is the other house.
-277000	282000	This is the dog riding a dog.
-282000	295000	They're on an adventure.
-295000	323000	This is the guy that's kind of like a waiter towards the left, holding like a tray and
-353000	354000	sitting on the table.
-354000	355000	Yeah.
-355000	356000	Yeah.
-356000	357000	Yeah.
-357000	358000	Yeah.
-358000	359000	Yeah.
-359000	360000	Yeah.
-360000	361000	Yeah.
-361000	362000	Yeah.
-362000	363000	Yeah.
-363000	364000	Yeah.
-364000	365000	Yeah.
-365000	366000	Yeah.
-366000	367000	Yeah.
+start	end	text	trial
+0	28000	Uh, so this is the sad looking guy. sad boy.	1
+28000	37000	This is the balloon, I don't know.	2
+37000	38000	The wiener dog?	2
+38000	39000	The wiener dog.	2
+39000	54000	Yeah.	2
+54000	57000	This is the back kick?	3
+57000	72000	Uh huh.	3
+72000	90000	The traffic light.	4
+90000	107000	Uh, the sunglasses.	5
+107000	123000	This is like the ballet dancer with the weird outstretched leg.	6
+123000	129000	This is the guy that's also dancing with the outstretched leg but with the weird trapezoid	7
+129000	131000	on the left side.	7
+131000	143000	Yeah.	7
+143000	149000	This is like the guy bending down with a book.	8
+149000	151000	You mean the bunny?	8
+151000	152000	Oh yeah, yeah.	8
+152000	153000	The bunny.	8
+153000	154000	That's okay.	8
+154000	155000	You don't have to call it the bunny.	8
+155000	156000	Yeah, but only one ear.	8
+156000	157000	Yeah.	8
+157000	158000	Yeah, it's like a side profile bunny.	8
+158000	159000	You know?	8
+159000	160000	Yeah.	8
+160000	171000	Uh, the guy that's bending at the knee towards the right with like a bowl.	9
+171000	181000	Uh, this is like the other bunny ears.	10
+181000	182000	Yeah.	10
+182000	183000	Weirdest one.	10
+183000	184000	This is the balloon dog.	11
+184000	185000	Balloon dog.	11
+185000	212000	This is like the guy that's kneeling with no arms, no legs.	12
+212000	236000	This is the house with the mushroom house.	13
+236000	244000	The tiny house that's under a mushroom.	13
+244000	251000	Oh, this is the music stand or the one with the rectangle at the bottom.	14
+251000	256000	It's a music stand or a Nessie.	14
+256000	259000	You don't see the Nessie?	14
+259000	262000	Oh yeah, I actually...	14
+262000	277000	This is the other house.	15
+277000	282000	This is the dog riding a dog.	16
+282000	295000	They're on an adventure.	16
+295000	323000	This is the guy that's kind of like a waiter towards the left, holding like a tray and	17
+353000	354000	a towel.	17
+354000	355000	This is the cash register scanning thing	18

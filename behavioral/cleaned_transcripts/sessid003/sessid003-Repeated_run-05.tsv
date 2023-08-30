@@ -1,74 +1,50 @@
-start	end	text
-0	23480	It takes so long to tell me I'm correct.
-23480	24480	I know.
-24480	28480	Well, it's just because we're so much faster than the computer now.
-28480	29480	Yeah.
-29480	30480	It's the happy guy riding the chihuahua.
-30480	31480	Yay.
-31480	32480	It's the sad bear with the smelly towel.
-32480	33480	Yeah.
-33480	62480	It's the simple, but simple, but simple, but simple, but simple, but simple, but simple,
-62480	65480	but secretly super rough, but complicated guy.
-65480	66480	It could be a monkey.
-66480	67480	Yeah, I see that.
-67480	68480	I feel like a lot of these guys are monks.
-68480	69480	Yeah.
-69480	76480	It is the running karate guy who's way more chill than the policeman guy.
-76480	77480	Okay.
-77480	78480	Daryl.
-78480	79480	Daryl, I know who that is.
-79480	80480	Oh, Daryl.
-80480	81480	We should get so good at this and just name it.
-81480	82480	Daryl.
-82480	83480	Daryl.
-83480	84480	Daryl.
-84480	85480	Daryl.
-85480	86480	Daryl.
-86480	87480	Daryl.
-87480	88480	Daryl.
-88480	89480	Daryl.
-89480	90480	Daryl.
-90480	91480	Daryl.
-91480	92480	Daryl.
-92480	93480	Daryl.
-93480	94480	Daryl.
-94480	95480	Daryl.
-95560	96560	Daryl.
-96560	97560	Daryl, I know who that is.
-97560	98560	Oh, Daryl.
-98560	111560	We should get so good at this and just name everything if we get like 20 rounds.
-111560	121280	It's the fountain, it's not the garden fountain, it's the blinking fountain.
-121280	122280	Okay.
-122280	125280	It's the garden fountain.
-125280	141080	Oh, Mr. Bugs, Bugs Bunny.
-141080	170080	Oh, it's the less try-hard guy, the one who's also praying, but he's just sitting there.
-170080	181080	Yeah.
-181080	184080	It's our really aggro policeman.
-184080	199080	Oh yeah.
-199080	205080	Oh, they keep hitting the wrong button and going the wrong way.
-205080	217080	It takes me ten years to get to it.
-217080	219080	Oh, it's the Shitting Goose.
-219080	232080	Yay.
-232080	234080	It's the bowl man.
-234080	235080	The what man?
-235080	237080	He's holding his bowl on the left.
-237080	239080	Oh, yes.
-239080	242080	What's in the bowl?
-242080	244080	I think it's like water.
-244080	248080	Maybe it's like...
-248080	249080	Ramen noodles.
-249080	253080	I don't know, is it a bowl or is it like a big bowl?
-253080	255080	It's Ronaldo.
-255080	270080	Ronaldo.
-270080	272080	Oh, it's Johnny.
-272080	279080	John.
-279080	281080	He's so happy.
-281080	304080	Oh, it's the side guy riding the horse.
-304080	306080	I think he needs a name too.
-306080	309080	Okay.
-309080	311080	You get to pick it out.
-311080	316080	It must be a sad name though.
-316080	323080	What's a sad name?
-323080	325080	Did you pick it out?
-325080	334080	No, I'm trying to think of sad names, but I also don't want to offend anybody.
-334080	336080	Okay.
+start	end	text	trial
+0	23480	Um it's the TV stand.	1
+23480	30480	It's the happy guy riding the chihuahua.	2
+30480	31480	Yay.	2
+31480	32480	It's the sad bear with the smelly towel.	3
+32480	33480	Yeah.	3
+33480	65480	It's the simple but secretly super emotionally complicated guy.	4
+65480	66480	He could be a monk.	4
+66480	67480	Yeah, I see that.	4
+67480	68480	I feel like a lot of these guys are monks.	4
+68480	69480	Yeah.	4
+69480	76480	It is the running karate guy who's way more chill than the policeman guy.	5
+77480	78480	Daryl.	6
+78480	79480	Daryl, I know who that is.	6
+79480	80480	Oh, Daryl.	6
+98560	111560	We should get so good at this and just name everything if we get like 20 rounds.	6
+111560	121280	It's the fountain, it's not the garden fountain, it's the drinking fountain.	7
+122280	125280	It's the rabbit.	8
+125280	141080	Oh, Mr. Bugs, Bugs Bunny.	8
+141080	170080	Oh, it's squat man, the guy who's doing the wall sit	9
+160000	170080	It's the less try-hard guy, the one who's also praying, but he's just sitting there.	10
+181080	184080	It's our really aggro policeman.	11
+184080	199080	Oh yeah.	11
+199080	217080	It's your garden fountain.	12
+217080	219080	Oh, it's the Shitting Goose.	13
+219080	232080	Yay.	13
+232080	234080	It's the bowl man.	14
+234080	235080	The what man?	14
+235080	237080	He's holding his bowl on the left.	14
+237080	239080	Oh, yes.	14
+239080	242080	What's in the bowl?	14
+242080	244080	I think it's like water.	14
+244080	248080	Maybe it's like...	14
+248080	249080	Ramen noodles.	14
+249080	253080	I don't know, is it a bowl or is it like a big bowl?	14
+253080	255080	It's Ronaldo.	15
+255080	270080	Ronaldo.	15
+270080	272080	Oh, it's Johnny.	16
+272080	279080	John.	16
+279080	281080	He's so happy.	16
+281080	291080	It's the house with the tree.	17
+291080	304080	Oh, it's the sad guy riding the horse.	18
+304080	306080	I think he needs a name too.	18
+306080	309080	Okay.	18
+309080	311080	You get to pick it out.	18
+311080	316080	It must be a sad name though.	18
+316080	323080	What's a sad name?	18
+323080	325080	Did you pick it yet?	18
+325080	334080	No, I'm trying to think of sad names, but I also don't want to offend anybody.	18
+334080	336080	Okay.	18

@@ -1,37 +1,31 @@
-start	end	text
-0	19000	Uh, flat dog, wiener dog.
-20000	30000	Orc, orc.
-30000	41000	Mushroom house.
-41000	43000	Uggh.
-57000	59000	Regular house.
-59000	61000	Got it.
-71000	73000	A balloon dog.
-86000	88000	Kneeling blob guy?
-88000	90000	Uh, yeah.
-102000	104000	Sunglasses.
-118000	120000	Sad boy.
-120000	122000	Yup.
-132000	134000	Uh, waiter?
-134000	136000	Waiter guy?
-150000	152000	Uh, nest seed?
-152000	154000	Oh, yeah.
-156000	158000	I can't unseed a nest seed now.
-158000	160000	Yeah.
-162000	168000	Uh, ballet guy. Ballet dancer.
-181000	185000	The other dancer guy?
-191000	203000	Uh, bunny with two ears.
-203000	225000	Uh, fence knee with ball?
-225000	227000	Yeah.
-233000	243000	Uh, bath kit guy.
-257000	259000	Dog on a dog.
-259000	261000	Okay.
-261000	263000	Okay.
-263000	265000	Adventure friend.
-271000	273000	Traffic light.
-273000	289000	Cush scanner thing.
-289000	305000	Bunny with one ear.
-305000	307000	A reading bunny.
-319000	339000	Okay, um, I feel my leg moving a little bit, so I'm gonna move it a little bit.
-339000	341000	Okay.
-341000	349000	I might, I might have drifted in that one. I was like trying not to, but...
-349000	353000	No, well, you know, I shouldn't stretch, but okay, I'm good.
+start	end	text	trial
+0	19000	Uh, flat dog, wiener dog.	1
+20000	30000	Arf arf.	1
+30000	41000	Mushroom house.	2
+41000	43000	Okay, uh.	2
+57000	59000	Regular house.	3
+59000	61000	Got it.	3
+71000	73000	A balloon dog.	4
+86000	88000	Kneeling blob guy?	5
+88000	90000	Uh, yeah.	5
+102000	104000	Sunglasses.	6
+118000	120000	Sad boy.	7
+120000	122000	Yup.	7
+132000	134000	Uh, waiter?	8
+134000	136000	Waiter guy?	8
+150000	152000	Uh, Nessie or music stand?	9
+152000	154000	Oh, yeah.	9
+156000	158000	I can't unsee the Nessie now.	9
+162000	168000	Uh, ballet guy. Ballet dancer.	10
+181000	185000	The other dancer guy?	11
+191000	203000	Uh, bunny with two ears.	12
+203000	225000	Uh, bent knee with bowl?	13
+225000	227000	Yeah.	13
+233000	243000	Uh, back kick guy.	14
+257000	259000	Dog on a dog.	15
+261000	263000	Okay.	15
+263000	265000	Adventure friend.	15
+271000	273000	Traffic light.	16
+273000	289000	Cash scanner thing.	17
+289000	305000	Bunny with one ear.	18
+305000	307000	A reading bunny.	18

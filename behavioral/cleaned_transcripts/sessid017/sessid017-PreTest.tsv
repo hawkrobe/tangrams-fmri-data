@@ -1,18 +1,7 @@
-start	end	text
-0	8000	Hello.
-8000	14000	Hi.
-14000	27000	Can you hear me?
-28000	33000	Can you hear me?
-33000	49000	Hello. Hi.
-49000	52000	Okay. Got it.
+start	end	text	trial
 52000	61000	So, there's like a square on the top and then two tilted squares overlapping on the bottom.
 61000	65000	It's like, imagine a person with their hands.
-65000	69000	Oh, I hit the wrong button instead of moving.
-69000	71000	I'm so sorry.
-71000	72000	No problem.
-72000	75000	That was what I was trying to move towards. I hit the wrong finger.
-75000	77000	Killed me, sorry.
-77000	80000	Right, so the next one.
+TRIAL2	80000	Right, so the next one.
 80000	88000	This one is like, it's sort of like a person trying to walk backwards.
 88000	89000	Okay.
 89000	91000	Backwards to the left.

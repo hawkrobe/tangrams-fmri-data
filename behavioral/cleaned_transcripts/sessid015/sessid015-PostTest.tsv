@@ -1,10 +1,10 @@
-start	end	text
+start	end	text	trial
 0	25000	It's the one with the legs at the 90 degree angle towards the bottom and the kind of the
 25000	30000	top with the triangle punching to the left below.
 30000	31000	Okay, yeah.
 31000	32000	Okay, thank you.
 32000	33000	Oh, this is it.
-33000	46000	Uh, it's the one riding the horse and the head's kind of like tilted down to the left.
+TRIAL2	46000	Uh, it's the one riding the horse and the head's kind of like tilted down to the left.
 46000	47000	Okay, yeah.
 48000	51000	It looks like the swans swimming.
 51000	52000	Yep.

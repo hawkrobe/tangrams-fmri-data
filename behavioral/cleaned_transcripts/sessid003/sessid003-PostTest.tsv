@@ -1,101 +1,100 @@
-start	end	text
-0	25720	I felt that I just hit the wrong button my remote was backwards
-55720	70720	What the hell? It's the music note thing.
-70720	75720	We're really going back to our leads here.
-75720	78720	Yeah.
-78720	80720	It's the TV sound.
-80720	94720	Ah, yes.
-94720	103720	This sounds weird. It's like, it's the double diamonds that are overlapping with the square on top.
-103720	108720	Oh, is it the one with the weird gap in the torso?
-108720	110720	Oh, it's the grenade. The snowman.
-110720	112720	Yeah, yeah, the grenade snowman.
-112720	122720	Boom.
-122720	129720	Okay, I think this one looks like an angel. He's like flying up to the top left.
-129720	133720	Oh, he's the one saying, like, why me?
-133720	146720	Why me?
-146720	151720	It's so simple to see really complicated guys.
-151720	155720	I'm going to miss him. I hope you have a good life.
-156720	159720	He might be the happiest. He's meditating.
-159720	161720	He is.
-161720	177720	It's smelly towel guy.
-177720	184720	This one looks like almost like a crab, but it's like flat. It's like horizontal.
-184720	188720	It's got like two arms pointing in.
-188720	191720	Oh, okay. The big trapezoid.
-191720	204720	Yeah.
-204720	208720	It's happy towel boy.
-208720	212720	Oh, yes.
-212720	213720	Daniel's rival.
-213720	240720	Yeah.
-240720	246720	It's the dude who's, like, kicking back behind him. He's got, like, his arms out in front to the left.
-246720	250720	He's standing on one leg.
-250720	252720	Christmas tree guy.
-252720	260720	He's, like, doing, like, a, um, like a ballet.
-260720	263720	Um, this guy looks like he's doing a really dramatic dance move.
-263720	272720	He's, like, he's facing the right, I think. But his leg is huge and it's, like, stretched out behind him.
-272720	273720	Oh.
-273720	276720	And his front foot is, like, a triangle.
-276720	281720	Does it have the triangle balancing on his butt?
-281720	282720	No.
-282720	287720	In the head. There's, like, a square front. There's, like, a square on top. That's his head.
-287720	291720	Okay. With the gap in the torso?
-292720	295720	No, it's, like, um.
-295720	299720	Oh. Does he look like he's vacuuming?
-299720	300720	Maybe.
-300720	301720	Maybe?
-301720	305720	Um, I'm going to pick that one. Oh, boo. Okay.
-305720	312720	Okay, this one is kind of weird.
-312720	316720	Oh, it's the sunglasses bow tie.
-316720	317720	Yeah.
-327720	330720	Oh, it's the, it's the wall sit guy.
-330720	332720	Oh, okay.
-332720	346720	It's the garden fountain.
-346720	353720	It's Daryl.
-353720	374720	Daryl. He's a good boy. You are, Daryl. I'm going to miss him the most.
-374720	382720	Um, it's the guy that's, like, sitting, chilling.
-382720	383720	Yeah.
-383720	385720	He's got, like, kind of a long neck.
-385720	393720	Yeah.
-393720	395720	It's our policeman.
-395720	410720	Oh, yes.
-410720	426720	It's the shaving goose.
-426720	432720	It's the dancing karate boy.
-432720	442720	Ka-chow.
-442720	447720	This one looks like a flower, slash, like, machine.
-447720	449720	It's got, like, a tail on the bottom. Yeah.
-449720	460720	Yeah.
-460720	461720	Oh, man.
-461720	475720	Oh, man.
-475720	485720	Um, okay, this dude is, like, it's, like, a rectangle, just, like, a big square, but then the right side is, like, has, is, like, not.
-485720	486720	Yeah.
-486720	489720	Oh, yeah.
-489720	497720	Daryl's dad.
-497720	503720	It's the house with the seagulls in me.
-503720	505720	Not as big as the tree house.
-505720	512720	No. No.
-512720	516720	Rabbit. Sad rabbit. That's funny.
-516720	527720	Yeah.
-527720	529720	Um, it's Johnny.
-529720	543720	Oh, Johnny.
-543720	559720	This is the one with, like, the weird little cut out in the middle of the two winged arms.
-559720	563720	This dude has, like, his arms crossed, and they're going, like, different directions.
-563720	570720	Oh, I know.
-570720	572720	Looks like he's wearing a dress.
-572720	578720	Yeah, low-key.
-578720	584720	Um, this is, like, the apostrophe gun.
-584720	592720	Oh, yes.
-592720	598720	Yeah, we're so close.
-598720	602720	This dude is, like, reading a book, bending over.
-602720	610720	Yeah.
-610720	612720	I wonder what book it is.
-612720	614720	Oh, Harry Potter.
-614720	615720	Yeah.
-615720	631720	Um, tree house.
-631720	635720	Um, sitting praying guy, not our wall-sit guy.
-635720	652720	Okay.
-652720	657720	Um, this is, like, the fancy knife thing that, like, would hurt to touch.
-657720	671720	Oh, yeah.
-671720	677720	Um, this dude is, like, sitting kind of, like, tilted to the right.
-677720	686720	His head is, like, a perfect diamond, and then there's, like, something, there's, like, a perfect triangle bouncing on the left.
-686720	687720	Yay, we did it.
-687720	715720	Yay.
-716720	735720	Okay.
+start	end	text	trial
+25720	47000	It's Daniel, sad sad Daniel.	2
+47000	47000	It's almost over Daniel.	2
+47000	55720	It's Ronaldo.	3
+55720	70720	What the hell, it's the music note thing.	4
+70720	75720	We're really going back to our roots here.	4
+75720	78720	Yeah.	4
+78720	80720	It's the TV stand.	5
+80720	94720	Ah, yes.	5
+94720	103720	This one's weird. It's like, it's the double diamonds that are overlapping with the square on top.	6
+103720	108720	Oh, is it the one with the weird gap in the torso?	6
+108720	110720	Oh, it's the grenade. The snowman.	6
+110720	112720	Yeah, yeah, the grenade snowman.	6
+112720	122720	Boom.	6
+122720	129720	Okay, I think this one looks like an angel. He's like flying up to the top left.	7
+129720	133720	Oh, he's the one saying, like, why me?	7
+133720	146720	Why me?	7
+146720	151720	It's the simple, secretely complicated guy.	8
+151720	155720	I'm going to miss him. I hope you have a good life.	8
+156720	159720	He might be the happiest. He's meditating.	8
+159720	161720	He is.	8
+161720	177720	It's smelly towel guy.	9
+177720	184720	This one looks like almost like a crab, but it's like flat. It's like horizontal.	10
+184720	188720	It's got like two arms pointing in.	10
+188720	191720	Oh, okay. The big trapezoid.	10
+191720	204720	Yeah.	10
+204720	208720	It's happy chihuahua boy.	11
+208720	212720	Oh, yes.	11
+212720	213720	Daniel's rival.	11
+213720	240720	It's the drinking fountain.	12
+240720	246720	It's the dude who's, like, kicking back behind him. He's got, like, his arms out in front to the left.	13
+246720	250720	He's standing on one leg.	13
+250720	252720	Christmas tree guy.	13
+252720	260720	He's, like, doing, like, a, um, like a ballet.	13
+260720	263720	Um, this guy looks like he's doing a really dramatic dance move.	14
+263720	272720	He's, like, he's facing the right, I think. But his leg is huge and it's, like, stretched out behind him.	14
+272720	273720	Oh.	14
+273720	276720	And his front foot is, like, a triangle.	14
+276720	281720	Does it have the triangle balancing on his butt?	14
+281720	282720	No.	14
+282720	287720	In the head. There's, like, a square front. There's, like, a square on top. That's his head.	14
+287720	291720	Okay. With the gap in the torso?	14
+292720	295720	No, it's, like, um.	14
+295720	299720	Oh. Does he look like he's vacuuming?	14
+299720	300720	Maybe.	14
+300720	301720	Maybe?	14
+301720	305720	Um, I'm going to pick that one. Oh, boo. Okay.	14
+305720	312720	Okay, this one is kind of weird.	15
+312720	316720	Oh, it's the sunglasses bow tie.	15
+316720	317720	Moustache.	15
+327720	330720	Oh, it's the, it's the wall sit guy.	16
+330720	332720	Oh, okay.	16
+332720	346720	It's the garden fountain.	17
+346720	353720	It's Daryl.	18
+353720	374720	Daryl. Who's a good boy? You are, Daryl. I'm going to miss him the most.	18
+374720	382720	Um, it's the guy that's, like, sitting, chilling.	19
+382720	383720	Yeah.	19
+383720	385720	He's got, like, kind of a long neck.	19
+385720	393720	Yeah.	19
+393720	395720	It's our policeman.	20
+395720	410720	Oh, yes.	20
+410720	426720	It's the shitting goose.	21
+426720	432720	It's the dancing karate boy.	22
+432720	442720	Ka-chow.	22
+442720	447720	This one looks like a flower, slash, like, machine.	23
+447720	449720	It's got, like, a tail on the bottom. Yeah.	23
+449720	460720	Bowl man.	24
+475720	485720	Um, okay, this dude is, like, it's, like, a rectangle, just, like, a big square, but then the right side is, like, has, is, like, not.	25
+485720	486720	Yeah.	25
+486720	489720	Oh, yeah.	25
+489720	497720	Daryl's dad.	25
+497720	503720	It's the house with the tall chimney.	26
+503720	505720	Not as good as the tree house.	26
+505720	512720	No. No.	26
+512720	516720	Rabbit. Sad rabbit. That's funny.	27
+516720	527720	Yeah.	27
+527720	529720	Um, it's Johnny.	28
+529720	543720	Oh, Johnny.	28
+543720	559720	This is the one with, like, the weird little cut out in the middle of the two winged arms.	29
+559720	563720	This dude has, like, his arms crossed, and they're going, like, different directions.	30
+563720	570720	Oh, I know.	30
+570720	572720	Looks like he's wearing a dress.	30
+572720	578720	Yeah, low-key.	30
+578720	584720	Um, this is, like, the apostrophe gun.	31
+584720	592720	Oh, yes.	31
+598720	602720	This dude is, like, reading a book, bending over.	32
+602720	610720	Yeah.	32
+610720	612720	I wonder what book it is.	32
+612720	614720	Probably Harry Potter.	32
+614720	615720	Yeah.	32
+615720	631720	Um, tree house.	33
+631720	635720	Um, sitting praying guy, not our wall-sit guy.	34
+635720	652720	Okay.	34
+652720	657720	Um, this is, like, the fancy knife thing that, like, would hurt to touch.	35
+657720	671720	Oh, yeah.	35
+671720	677720	Um, this dude is, like, sitting kind of, like, tilted to the right.	36
+677720	686720	His head is, like, a perfect diamond, and then there's, like, something, there's, like, a perfect triangle bouncing on the left.	36
+686720	687720	Yay, we did it.	36
+687720	715720	Yay.	36
+716720	735720	Okay.	36

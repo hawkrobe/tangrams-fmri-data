@@ -1,42 +1,39 @@
-start	end	text
-0	25000	This is a person stepping to the left.
-25000	54000	This is somebody stepping to the right.
-54000	72000	This is a really skinny shape. It has two triangles on each side.
-72000	90000	This looks like a person that's sitting down to the left.
-90000	108000	This is a symmetrical shape with a hexagonal base.
-108000	122000	This is a little girl with a ponytail.
-122000	139000	This looks like somebody that's kicking something behind them with two triangles on the left side of their body.
-139000	154000	This looks like the lowercase letter I. It's all connected as one shape.
-154000	168000	Yeah, it has a diamond as a head and it looks like the letter I.
-168000	185000	This looks like the letter C but with the bottom part cut off.
-185000	202000	This is a swan.
-202000	217000	This looks like a crab.
-217000	235000	This looks like a person riding a horse.
-235000	243000	This looks like a dog. Its feet are flat on the ground.
-243000	256000	It's facing the left.
-256000	274000	This looks like a person kneeling facing the right with two triangles on the right.
-274000	291000	This is the tulip or the ghost shape.
-291000	306000	This is the bunny rabbit.
-306000	321000	This looks like the candlestick.
-321000	334000	The scuba diver.
-334000	351000	This looks like a house and it has a long rectangle to the right side.
-351000	368000	This looks like the other candlestick shape except it has a straight line on the left side and it's wider.
-368000	384000	This looks like a pair of sunglasses.
-384000	405000	This kind of looks like the bunny rabbit shape except it has a diamond and a triangle as the two ears.
-405000	423000	This is like the house shape except it has an arrow on the left.
-423000	441000	This looks like somebody with a triangle head who's holding a book. It has a small head but a bigger body.
-441000	460000	This looks like an animal. It's facing the left side but it's not like the dog shape. It has triangles as legs.
-460000	478000	This is a person holding a cup.
-478000	493000	This is somebody shrugging.
-493000	514000	This is somebody that's squatting and has two triangles to the right that are facing the right as well.
-514000	531000	This is a scale tilted to the right.
-531000	549000	This is somebody that's kicking something to the left and is standing on one leg.
-549000	565000	This is a person riding a horse or a bull.
-565000	593000	This looks like a llama with no legs. It's facing the left and has a rectangular body.
-593000	612000	This looks like it has bunny rabbit ears, two triangles as ears and has a square book below it.
-612000	631000	This has a diamond head and in the bottom right corner there's a triangle.
-631000	645000	This is an upside down pine tree.
-645000	674000	This looks like a person holding a towel facing the left and is standing.
-675000	680000	This is an upside down pine tree.
-680000	697000	This is an upside down pine tree.
-697000	721000	This is an upside down pine tree.
+start	end	text	trial
+0	25000	This is a person stepping to the left.	1
+25000	54000	This is somebody stepping to the right.	2
+54000	72000	This is a really skinny shape. It has two triangles on each side.	3
+72000	90000	This looks like a person that's sitting down, to the left.	4
+90000	108000	This is a symmetrical shape with a hexagonal base.	5
+108000	122000	This is a little girl with a ponytail.	6
+122000	139000	This looks like somebody that's kicking something behind them with two triangles on the left side of their body.	7
+139000	154000	This looks like the lowercase letter I. It's all connected as one shape.	8
+154000	168000	Yeah, it has a diamond as a head and it looks like the letter I.	8
+168000	185000	This looks like the letter C but with the bottom part cut off.	9
+185000	202000	This is a swan.	10
+202000	217000	This looks like a crab.	11
+217000	235000	This looks like a person riding a horse.	12
+235000	243000	This looks like a dog. Its feet are flat on the ground.	13
+243000	256000	It's facing the left.	13
+256000	274000	This looks like a person kneeling facing the right with two triangles on the right.	14
+274000	291000	This is the tulip or the ghost shape.	15
+291000	306000	This is the bunny rabbit.	16
+306000	321000	This looks like a candlestick.	17
+321000	334000	The scuba diver.	18
+334000	351000	This looks like a house and it has a long rectangle to the right side.	19
+351000	368000	This looks like the other candlestick shape except it has a straight line on the left side and it's wider.	20
+368000	384000	This looks like a pair of sunglasses.	21
+384000	405000	This kind of looks like the bunny rabbit shape except it has a diamond and a triangle as the two ears.	22
+405000	423000	This is like the house shape except it has an arrow on the left.	23
+423000	441000	This looks like somebody with a triangle head who's holding a book. It has a small head but a bigger body.	24
+441000	460000	This looks like an animal. It's facing the left side but it's not like the dog shape. It has triangles as legs.	25
+460000	478000	This is a person holding a cup.	26
+478000	493000	Somebody shrugging.	27
+493000	514000	This is somebody that's squatting and has two triangles to the right that are facing the right as well.	28
+514000	531000	This is a scale tilted to the right.	29
+531000	549000	Somebody that's kicking something to the left and is standing on one leg.	30
+549000	565000	This is a person riding a horse or a bull.	31
+565000	593000	OK this looks like a llama with no legs. It's facing the left and has a rectangular body. It looks like a llama.	32
+593000	612000	This looks like it has bunny rabbit ears, two triangles as ears and has a square book below it.	33
+612000	631000	This has a diamond head and in the bottom right corner there's a triangle.	34
+631000	645000	Upside down pine tree.	35
+645000	674000	Looks like a person holding a towel facing the left and is standing.	36

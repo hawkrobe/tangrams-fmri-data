@@ -1,6 +1,6 @@
-start	end	text
+start	end	text	trial
 0	12000	Ah, wine glass.
-12000	23000	Got it.
+Trial2	23000	Got it.
 23000	38000	Ballerina.
 38000	53000	Sad priest.
 53000	66000	array of shapes.

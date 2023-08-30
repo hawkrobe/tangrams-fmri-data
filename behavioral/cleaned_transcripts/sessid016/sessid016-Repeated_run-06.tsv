@@ -1,6 +1,6 @@
-start	end	text
-0	24980	Next slide please.
-24980	32980	Top hat.
+start	end	text	trial
+0	24980	Wine glass
+Trial2	32980	Top hat.
 32980	40980	Tank.
 40980	50980	Did you say tank?
 50980	76980	Crab.

@@ -1,7 +1,4 @@
-start	end	text
-0	4000	Sounds good.
-20000	22000	Okay.
-22000	26000	Um, am I allowed to start?
+start	end	text	trial
 26000	28000	Okay.
 28000	34000	So this one, it has a rhombus head.
 34000	42000	Um, it kind of looks like there's a foot extending to the right and a triangular base.
@@ -19,7 +16,7 @@ start	end	text
 96000	102000	Is the white space in the middle of the figure on the right side, uh, and it's a trapezoid?
 102000	103000	Yes.
 103000	105000	Okay. I'm gonna select.
-105000	107000	Okay.
+TRIAL2	107000	Okay.
 109000	134000	So this one, describing the black space again, there's like kind of a central pole with what looks like two triangles extending on both the right and the left side.
 134000	137000	Is the right triangle slightly higher than the left triangle?
 137000	138000	Yes.

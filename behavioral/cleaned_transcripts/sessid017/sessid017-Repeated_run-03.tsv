@@ -1,8 +1,7 @@
-start	end	text
+start	end	text	trial
 0	7000	it.
 14920	21920	This is a robot.
-21920	28920	The two-petal flower.
-29360	36360	The two-petal flower.
+TRIAL2	28920	The two-petal flower.
 45360	52360	Like, like this horse.
 59920	66920	Like the ladle.
 75320	82320	It's like the, um, kneeling with the triangle arms outstretched.

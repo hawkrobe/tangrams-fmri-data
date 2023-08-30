@@ -1,20 +1,19 @@
-start	end	text
-0	19000	The person stepping toward the left.
-19000	36000	This is the candlestick with stuff on the left.
-36000	65000	Also like a candlestick but wider with a straight left and stuff missing on the right.
-65000	91000	The person stepping toward the right.
-91000	108000	The person that's kicking something one foot off the ground on the left side.
-108000	128000	A girl with a ponytail.
-128000	143000	The person holding a bowl.
-143000	159000	The symmetric crab.
-159000	180000	The bunny.
-180000	198000	The person riding a bowl.
-198000	216000	The person shrugging.
-216000	236000	A tulip shape.
-236000	256000	A symmetric with a hexagon on the bottom.
-256000	282000	A weird one with diamond and then two triangles on the bottom like a person kneeling.
-282000	301000	The swan tilted toward the right.
-301000	315000	A scale tilted toward the right.
-315000	330000	A scuba diver.
-330000	359000	An upside down pine tree.
-359000	371000	The person stepping toward the left.
+start	end	text	trial
+0	19000	The person stepping toward the left.	1
+19000	36000	This is the candlestick with stuff on the left.	2
+36000	65000	Also like a candlestick but wider with a straight left and stuff missing on the right.	3
+65000	91000	The person stepping toward the right.	4
+91000	108000	The person that's kicking something one foot off the ground on the left side.	5
+108000	128000	A girl with a ponytail.	6
+128000	143000	The person holding a bowl.	7
+143000	159000	The symmetric crab.	8
+159000	180000	The bunny.	9
+180000	198000	The person riding a bowl.	10
+198000	216000	The person shrugging.	11
+216000	236000	A tulip shape.	12
+236000	256000	A symmetric with a hexagon on the bottom.	13
+256000	282000	A weird one with diamond and then two triangles on the bottom like a person kneeling.	14
+282000	301000	The swan tilted toward the right.	15
+301000	315000	A scale tilted toward the right.	16
+315000	330000	Scuba diver.	17
+330000	359000	Upside down pine tree.	18

@@ -1,10 +1,10 @@
-start	end	text
+start	end	text	trial
 30000	41240	Do I start? Okay, uh, this looks like a dog, and, um, it has a tail, and it's facing to
 41240	50200	our left, and, um, all I can really say about it, it has, like, a little jut out in its
 50200	57200	left leg, from our perspective, and the right leg is just a triangle, if that makes sense.
 57200	61200	Okay, um, I think it does. I think I know which one you're talking about.
 61200	62200	Okay, great.
-67200	68200	Yeah.
+TRIAL2	68200	Yeah.
 72200	79200	Okay, uh, um, this one looks like a person lying down, but kind of also in a sitting
 79200	89200	up position, and they're, um, kind of like they're lying against a wall, and they have
 89200	95200	like one foot, or I guess both feet, but they're like parallel, so we can only see one, if

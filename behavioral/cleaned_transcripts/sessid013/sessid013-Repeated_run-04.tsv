@@ -1,42 +1,38 @@
-start	end	text
-0	13500	blooming.
-13500	15800	This is the angle.
-15800	17800	Okay
-45800	47800	Okay
-75800	77800	Oh
-91920	93920	Yeah
-105800	113800	This is the person, Diamondhead and the left side is the spoiler and the right side is looking good to find.
-113800	115800	Okay
-115800	117800	Yes
-124800	126800	Um, this is your lawyer
-126800	128800	Okay
-135800	137800	Okay
-141800	143800	It's the house
-143800	145800	Okay
-157800	163800	It's the person that's holding a white towel to the left
-163800	165800	Okay
-179800	181800	It's the problem
-193800	195800	This is the valet dancer
-195800	197800	Okay
-197800	199800	Okay
-213800	223800	This is the guy, Diamondhead and he has shoulders but no arms to count on
-223800	225800	Okay
-225800	227800	Yes
-231800	235800	Um, this is the toilet
-235800	237800	The what?
-237800	241800	The toilet for the chair
-241800	243800	Oh, okay, yeah, yeah
-255800	257800	Um, this is the go band
-257800	259800	Oops
-271800	275800	This is the little kid by the animal
-275800	277800	Uh-huh
-285800	287800	Okay
-291800	295800	Um, this is the person doing like a disco dance for me
-295800	297800	Yeah
-309800	313800	Um, this is the tuxedo hat
-313800	317800	Um, let me just use five angles for this
-319800	321800	Um, is that clear to you?
-323800	325800	Yes
-333800	337800	Um, they're in the marriage
-337800	339800	Okay
-345800	347800	Whoa
+start	end	text	trial
+0	13500	blooming.	1
+13500	15800	This is the angel.	1
+15800	17800	Okay	1
+45800	47800	Okay	2
+105800	113800	This is the person, Diamondhead and the left side is the spoiler and the right side is looking good to find.	2
+113800	115800	Okay	2
+124800	126800	Um, this is your lawyer	3
+126800	128800	Okay	3
+141800	143800	It's the house	4
+143800	145800	Okay	4
+157800	163800	It's the person that's holding a white towel to the left	5
+163800	165800	Okay	5
+179800	181800	It's the problem	6
+193800	195800	This is the valet dancer	6
+195800	197800	Okay	7
+197800	199800	Okay	7
+213800	223800	This is the guy, Diamondhead and he has shoulders but no arms to count on	8
+223800	225800	Okay	8
+225800	227800	Yes	8
+231800	235800	Um, this is the toilet	9
+235800	237800	The what?	9
+237800	241800	The toilet for the chair	9
+241800	243800	Oh, okay, yeah, yeah	9
+255800	257800	Um, this is the go band	10
+257800	259800	Oops	10
+271800	275800	This is the little kid by the animal	11
+275800	277800	Uh-huh	11
+285800	287800	Okay	11
+291800	295800	Um, this is the person doing like a disco dance for me	12
+295800	297800	Yeah	12
+309800	313800	Um, this is the tuxedo hat	13
+313800	317800	Um, let me just use five angles for this	14
+319800	321800	Um, is that clear to you?	15
+323800	325800	Yes	15
+333800	337800	Um, they're in the marriage	16
+337800	339800	Okay	16
+345800	347800	Whoa	16

@@ -1,92 +1,75 @@
-start	end	text
-0	5000	Okay.
-5000	10000	Okay.
-10000	15000	Okay.
-15000	20000	Okay.
-20000	43000	Balloon dog with a tail facing the left.
-43000	45000	Okay.
-45000	56000	Yeah.
-56000	59000	Uh, the music stand.
-59000	61000	The music stand.
-61000	63000	Or, yeah, it has a rectangle at the bottom.
-63000	64000	Oh, okay.
-64000	67000	It looks like a Nessie too, actually.
-67000	70000	Uh, rectangle at the bottom.
-70000	76000	It's a stick chunk, yeah.
-76000	79000	Looks like a dinosaur to me now.
-79000	81000	Okay, what's this?
-81000	85000	Uh, this is the flat dog.
-85000	87000	The dog standing flat to the left.
-87000	90000	Is the kind of like long one?
-90000	91000	Yeah, the wiener dog.
-91000	92000	Okay.
-92000	93000	Yeah.
-93000	97000	Cool.
-97000	104000	Oh, wiener dog.
-104000	109000	Uh, the house with the extra roof thing, triangle.
-109000	110000	Mushroom house.
-110000	125000	Oh, okay.
-125000	129000	Uh, the ballet dancer facing the right.
-129000	130000	Uh, yeah.
-130000	133000	Stretched out, weirdly.
-133000	146000	Right.
-146000	148000	Uh, sad boy.
-148000	149000	Uh.
-149000	150000	Sitting facing left.
-150000	151000	Uh-oh.
-151000	152000	Uh-oh.
-152000	155000	This is okay.
-155000	160000	We all know this is a sad boy.
-160000	166000	Uh, the, like, guy kicking up with two triangles as legs.
-166000	171000	Facing the left.
-171000	177000	Also, like, two triangle legs all the way up the top.
-177000	180000	It kind of looks like bunny ears at the top.
-180000	181000	Oh, okay.
-181000	183000	Yeah, we can just do bunny ears for this.
-183000	187000	I don't think there's anything else.
-187000	188000	Bunny ears at the top?
-188000	189000	Okay.
-189000	196000	Yeah, two triangles.
-196000	198000	It's like a bunny drinking tea.
-198000	200000	Yeah.
-200000	202000	Uh, the cashier registrar thing.
-202000	204000	Uh-huh.
-204000	228000	Uh, guy also kind of dancing, but then extending a leg out, like, a triangle at the bottom.
-229000	234000	And then a weird, like, trapezoid sticking out of his other side, left side.
-234000	236000	Oh, like, towards the lower right?
-236000	237000	Yeah.
-237000	239000	I don't know what this, this is also a dancer guy.
-239000	241000	Yeah, I think this one.
-241000	246000	It's like a Turkish dancer.
-246000	250000	Yeah, I think this is a Turkish dancer.
-250000	253000	Okay, guy kicking, back kick.
-253000	255000	Ah, yeah.
-268000	272000	Uh, dog riding a dog.
-272000	274000	Uh, okay.
-284000	292000	Um, guy with a bull facing the right, but, like, uh, knees bent a little bit.
-292000	295000	Oh, I see it.
-295000	320000	Uh, bunny reading a book, like, kind of looking down or holding a diamond facing the left.
-320000	322000	Oh, oh, oh, right.
-322000	324000	Yeah, a triangular.
-324000	327000	Basically all the triangle guys are bunnies.
-327000	328000	This one.
-328000	330000	Yeah.
-339000	341000	Uh, sunglasses.
-347000	348000	Sunglasses?
-348000	349000	Yeah.
-349000	351000	Okay, I got it.
-354000	360000	Uh, regular house.
-374000	377000	Uh, kneeling the guy.
-377000	383000	Uh, just like, just kneeling to the right.
-383000	385000	Oh, okay, like, no legs, no arms.
-385000	386000	Yeah.
-386000	387000	Okay.
-387000	389000	The blob.
-397000	403000	Uh, the waiter guy, like, holding something on a towel to the left.
-403000	405000	Yeah.
-407000	419000	Uh, traffic light.
-419000	421000	Oh, okay.
-432000	434000	Yay.
-438000	440000	Okay.
-444000	445000	Good.
-445000	447000	Okay.
+start	end	text	trial
+20000	43000	Balloon dog with a tail facing the left.	1
+56000	59000	Uh, the music stand.	2
+59000	61000	The music stand?	2
+61000	63000	Or, yeah, it has a rectangle at the bottom.	2
+63000	64000	Oh, okay.	2
+64000	67000	It looks like a Nessie too, actually.	2
+67000	70000	Uh, rectangle at the bottom?	2
+70000	76000	The big chunk, yeah.	2
+76000	79000	Looks like a dinosaur to me now.	2
+81000	85000	Uh, this is the flat dog.	3
+85000	87000	The dog standing flat to the left.	3
+87000	90000	Is it the kind of like long one?	3
+90000	91000	Yeah, the wiener dog.	3
+93000	97000	Cool.	3
+97000	104000	Oh, wiener dog.	3
+104000	109000	Uh, the house with the extra roof thing, triangle.	4
+109000	110000	Mushroom house.	4
+110000	125000	Oh, okay.	5
+125000	129000	Uh, the ballet dancer facing the right.	6
+129000	130000	Uh, yeah.	6
+130000	133000	Stretched out, weirdly.	6
+133000	146000	Right.	6
+146000	148000	Uh, sad boy.	7
+148000	149000	Uh.	7
+149000	150000	Sitting facing left.	7
+150000	151000	Uh-oh.	7
+152000	155000	It's okay.	7
+155000	160000	We all know this is a sad boy.	7
+160000	166000	Uh, the, like, guy kicking up with two triangles as legs.	8
+166000	171000	Facing the left.	8
+171000	177000	Also, like, two triangle legs all the way up the top.	8
+177000	180000	It kind of looks like bunny ears at the top.	8
+180000	181000	Oh, okay.	8
+181000	183000	Yeah, we can just do bunny ears for this.	8
+183000	187000	I don't think there's anything else.	8
+187000	188000	Bunny ears at the top?	8
+188000	189000	Okay.	8
+189000	196000	Yeah, two triangles.	8
+196000	198000	It's like a bunny drinking tea.	8
+198000	200000	Yeah.	8
+200000	202000	Uh, the cashier register thing.	9
+202000	204000	Uh-huh.	9
+204000	228000	Uh, guy also kind of dancing, but then extending a leg out, like, a triangle at the bottom.	10
+229000	234000	And then a weird, like, trapezoid sticking out of his other side, left side.	10
+234000	236000	Oh, like, towards the lower right?	10
+236000	237000	Yeah.	10
+237000	239000	I don't know what this, this is also dancer guy.	10
+241000	246000	It's like a Turkish dancer.	10
+246000	250000	Yeah, I think this is a Turkish dancer.	10
+250000	253000	Okay, guy kicking, back kick.	10
+253000	255000	Ah, yeah.	10
+268000	272000	Uh, dog riding a dog.	11
+272000	274000	Uh, okay.	11
+284000	292000	Um, guy with a bowl facing the right, but, like, uh, knees bent a little bit.	12
+292000	295000	Oh, I see it.	12
+295000	320000	Uh, bunny reading a book, like, kind of looking down or holding a diamond. facing the left.	13
+320000	322000	Oh, oh, oh, right.	13
+322000	324000	Yeah, a triangle ear.	13
+324000	327000	Basically all the triangle guys are bunnies.	13
+339000	341000	Uh, sunglasses.	14
+347000	348000	Sunglasses?	14
+348000	349000	Yeah.	14
+349000	351000	Okay, I got it.	14
+354000	360000	Uh, regular house.	15
+374000	377000	Uh, kneeling guy.	16
+377000	383000	Uh, just like, just kneeling to the right.	16
+383000	385000	Oh, okay, like, no legs, no arms.	16
+385000	386000	Yeah.	16
+386000	387000	Okay.	16
+387000	389000	The blob.	16
+397000	403000	Uh, the waiter guy, like, holding something on a towel to the left.	17
+403000	405000	Yeah.	17
+407000	419000	Uh, traffic light.	18
+419000	421000	Oh, okay.	18

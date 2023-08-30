@@ -1,21 +1,25 @@
 start	end	text
-0	22000	Yeah, I'm good.
-22000	35000	Yeah.
-36000	53000	Yeah.
-53000	68000	Triad.
-68000	88000	This is the house.
-88000	101000	Kill.
-101000	122000	This is the one with.
-122000	140000	This is the two headed one with a square at the top.
-140000	155000	This is the house.
-155000	175000	This is the one.
-175000	202000	This is the house.
+0	7000	Yeah, I'm good.
+7000	11000	Robot.
+11000	36000	I have an ostrich.
+36000	53000	This is the one with the front knees.
+53000	68000	Triangular arms below.
+68000	85000	This is the house with a chimney on the right.
+85000	88000	The two-petal flower.
+88000	89000	Two?
+89000	101000	Two, yes, two.
+101000	122000	This is the one with the ostrich arms that I put up on the grass.
+122000	139000	This is the two-headed one with a square at the top of his head.
+139000	154000	And this is the legless horse.
+154000	171000	I began riding on the horse.
+172000	189000	This is the one near me with two triangular arms outstretched.
+189000	202000	This is the horse moving to the left.
 202000	217000	The house with the arrow to the left.
-217000	231000	This is like the ice cream tent.
-231000	249000	This is the one with the two small triangles on top.
-249000	269000	This is the one with a tilted square head and like a big left leg and then a small triangle on the right leg.
-269000	287000	This is the one with the symmetrical lights.
-287000	302000	This is the one with the three petals on top.
-302000	329000	Little.
-329000	353000	Okay.
-353000	363000	Okay.
+217000	231000	This is like the ice cream truck.
+232000	250000	This is the one with the two small triangles on top.
+250000	269000	This is the one with a tilted square head and a big left leg and then a small triangle on the right leg.
+269000	287000	This is the one with the symmetrical legs.
+287000	302000	The three-petal flower.
+302000	322000	This is the one with the little triangle on the right.
+322000	350000	This is the one with the big triangle on the left.
+350000	354000	Okay.

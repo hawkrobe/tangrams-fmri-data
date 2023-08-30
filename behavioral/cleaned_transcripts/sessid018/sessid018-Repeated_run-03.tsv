@@ -1,6 +1,6 @@
-start	end	text
+start	end	text	trial
 30000	33000	It's sitting at a table across from someone.
-33000	35000	Got it. One second.
+TRIAL2	35000	Got it. One second.
 48000	50000	Not a tree.
 50000	52000	Okay. Nice.
 61000	65000	Uh, diamond on cliff.

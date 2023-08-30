@@ -1,106 +1,100 @@
-start	end	text
-0	2000	Sounds good.
-30000	35000	Okay, um, this one looks like a bamboo shoot.
-35000	40000	Or you described it at the telephone pole, with two speeders coming out of it.
-40000	45000	Um, yes, very vertical.
-45000	48000	Can he be a little bit louder?
-48000	50000	Yeah.
-54000	56000	Okay, this one looks like a shrimp.
-56000	58000	Yes, the shrimp?
-58000	60000	Yeah, the shrimp. And the gun.
-70000	75000	This one, you described it as a fish, but I think it's more of it as a scuba diver.
-75000	77000	Oh shoot!
-79000	81000	That was the wrong button.
-81000	92000	Uh, this one looks like the dancer with the mulling dress out to the left.
-92000	98000	Um, has a square tilted slightly to the left.
-98000	103000	Uh, has the head out to the right. There's a triangle.
-103000	105000	Uh, that's perfect.
-106000	108000	Shit.
-114000	116000	Oh, yeah.
-116000	118000	Um, this one's the pine cone.
-118000	120000	Uh, very symmetrical.
-120000	123000	Uh, what else?
-123000	126000	Square on top, flat square.
-126000	133000	Uh, and then zigzaggy on both sides.
-133000	137000	Uh, flat square on the top, symmetrical.
-144000	151000	Okay, this one has a small triangle pointing to the left as the head,
-151000	156000	and at the bottom it's carrying a little square to the left.
-156000	158000	Yeah.
-164000	175000	Okay, this one, um, it's a square head diamond on a flat clip.
-175000	183000	Um, it's flat on the left, and then to the right it's a bit more jagged.
-184000	186000	And go.
-192000	199000	Okay, this one is kind of hard to describe, but on top, um,
-199000	202000	for like the first half it's pretty symmetrical,
-202000	206000	but then there's something that jumps out at the bottom to the right.
-206000	209000	Um, and there's a triangle on top.
-209000	211000	It's very jagged on top.
-211000	216000	It is symmetrical on top, but then, you know, it jumps out to the right.
-222000	224000	Okay, this is the house with the smoke stack.
-224000	228000	Um, pretty straightforward.
-229000	233000	Okay, uh, there's a lot going on in this one.
-233000	239000	Um, it looks like a, uh, a person with a skirt sitting down.
-239000	244000	Uh, there's feet out to the right, and there's a upright diamond head,
-244000	247000	or, you know, the square diamond head.
-247000	250000	Um, there's something pointing out to the left.
-250000	255000	Uh, and, you know, there's something pointing out to the left.
-255000	258000	Uh, and her arms are kind of pointed to the right.
-258000	263000	So she's wearing a, and the skirt is like a, it's like a upright triangle.
-263000	265000	It's like a big upright triangle.
-265000	268000	And she has feet out to the bottom right,
-268000	273000	and her head is a, uh, a diamond, a meaningful square, you know,
-273000	276000	square diamond, and it's upright.
-276000	278000	And, uh, yeah, her.
-278000	280000	Okay.
-280000	283000	Okay, uh, there's a lot going on in this one, too.
-283000	286000	It's, it's, it's kind of like a jagged clip.
-286000	291000	Um, and to the left, there's a lot more jagged stuff on this clip,
-291000	293000	and there's a square on top,
-293000	296000	and it's pushing off a triangle to the right.
-296000	302000	Um, yeah, and the square is tilted, yeah.
-302000	304000	Okay.
-305000	308000	This one is the arabesque dancer,
-308000	311000	with the feet pointing to the right.
-311000	315000	And, um, yeah.
-321000	322000	All right.
-322000	326000	This one is the arabesque dancer,
-326000	329000	and it's pointing to the left.
-329000	332000	And, um, yeah.
-332000	333000	All right.
-333000	337000	This one, uh, I disagree with the way you described this.
-337000	340000	I mean, it looks like, you said it looks like someone with wings
-340000	342000	trying to, uh, fly away.
-342000	345000	I think it's more of a guy just, you know, having a good time.
-345000	350000	Uh, his arms are raised, and it's a, uh, parallelogram.
-350000	353000	The body is a giant parallelogram pointed to the right.
-353000	357000	The head is a diamond tilting to the left.
-357000	360000	Um, and, you know, it's got the wings or the arms,
-360000	363000	uh, out raised, out stretched, you know.
-363000	365000	Um.
-371000	373000	Okay, this is a giraffe with a brachiosaurus.
-373000	376000	Um, square body on the bottom.
-376000	378000	Uh, very long neck.
-378000	380000	And, cool.
-380000	383000	Oh, this is the person sitting down, uh,
-383000	385000	when the ball is on the right.
-385000	388000	So you can see the, it's flat on the right.
-388000	391000	The head is tilted down slightly to the left.
-391000	393000	Um, their legs are bent.
-393000	395000	It's a triangle at the bottom.
-395000	398000	Um, uh, yeah.
-404000	407000	Okay, this is a very small giraffe.
-408000	412000	Okay, this is a very symmetrical, hard-to-describe one.
-412000	417000	Um, however, there is a trapezoid cut out from the top of it.
-417000	420000	Um, and, yeah, it's symmetrical.
-420000	423000	Uh, yeah.
-428000	431000	Okay, this, uh...
-433000	436000	Oh, wine glass. Yeah, person with a wine glass.
-436000	439000	Um, the upright diamond head.
-439000	442000	Um, and the wine glass is to the left.
-450000	452000	Okay, this is a horse without a leg.
-452000	456000	Um, you know, it has the triangle head.
-456000	459000	And to the right, it has the triangle foot.
+start	end	text	trial
+30000	35000	Okay, um, this one looks like a bamboo shoot.	1
+35000	40000	Or you described it at the telephone pole, with two speeders coming out of it.	1
+40000	45000	Um, yes, very vertical.	1
+45000	50000	Yeah.	2
+54000	56000	Okay, this one looks like a shrimp.	2
+56000	58000	Yes, the shrimp?	2
+58000	60000	Yeah, the shrimp. And the gun.	2
+70000	75000	This one, you described it as a fish, but I think it's more of it as a scuba diver.	3
+75000	77000	Oh shoot!	3
+79000	81000	That was the wrong button.	3
+81000	92000	Uh, this one looks like the dancer with the mulling dress out to the left.	4
+92000	98000	Um, has a square tilted slightly to the left.	4
+98000	103000	Uh, has the head out to the right. There's a triangle.	4
+103000	105000	Uh, that's perfect.	4
+106000	108000	Shit.	4
+114000	116000	Oh, yeah.	5
+116000	118000	Um, this one's the pine cone.	5
+118000	120000	Uh, very symmetrical.	5
+120000	123000	Uh, what else?	5
+123000	126000	Square on top, flat square.	5
+126000	133000	Uh, and then zigzaggy on both sides.	5
+133000	137000	Uh, flat square on the top, symmetrical.	5
+144000	151000	Okay, this one has a small triangle pointing to the left as the head,	6
+151000	156000	and at the bottom it's carrying a little square to the left.	6
+156000	158000	Yeah.	6
+164000	175000	Okay, this one, um, it's a square head diamond on a flat clip.	7
+175000	183000	Um, it's flat on the left, and then to the right it's a bit more jagged.	7
+184000	186000	And go.	7
+192000	199000	Okay, this one is kind of hard to describe, but on top, um,	8
+199000	202000	for like the first half it's pretty symmetrical,	8
+202000	206000	but then there's something that jumps out at the bottom to the right.	8
+206000	209000	Um, and there's a triangle on top.	8
+209000	211000	It's very jagged on top.	8
+211000	216000	It is symmetrical on top, but then, you know, it jumps out to the right.	8
+222000	224000	Okay, this is the house with the smoke stack.	9
+224000	228000	Um, pretty straightforward.	9
+229000	233000	Okay, uh, there's a lot going on in this one.	10
+233000	239000	Um, it looks like a, uh, a person with a skirt sitting down.	10
+239000	244000	Uh, there's feet out to the right, and there's a upright diamond head,	10
+244000	247000	or, you know, the square diamond head.	10
+247000	250000	Um, there's something pointing out to the left.	10
+250000	255000	Uh, and, you know, there's something pointing out to the left.	10
+255000	258000	Uh, and her arms are kind of pointed to the right.	10
+258000	263000	So she's wearing a, and the skirt is like a, it's like a upright triangle.	10
+263000	265000	It's like a big upright triangle.	10
+265000	268000	And she has feet out to the bottom right,	10
+268000	273000	and her head is a, uh, a diamond, a meaningful square, you know,	10
+273000	276000	square diamond, and it's upright.	10
+276000	278000	And, uh, yeah, her.	10
+278000	280000	Okay.	10
+280000	283000	Okay, uh, there's a lot going on in this one, too.	11
+283000	286000	It's, it's, it's kind of like a jagged clip.	11
+286000	291000	Um, and to the left, there's a lot more jagged stuff on this clip,	11
+291000	293000	and there's a square on top,	11
+293000	296000	and it's pushing off a triangle to the right.	11
+296000	302000	Um, yeah, and the square is tilted, yeah.	11
+302000	304000	Okay.	11
+305000	308000	This one is the arabesque dancer,	12
+308000	311000	with the feet pointing to the right.	12
+311000	315000	And, um, yeah.	12
+321000	322000	All right.	12
+322000	326000	This one is the arabesque dancer,	12
+326000	329000	and it's pointing to the left.	12
+329000	332000	And, um, yeah.	12
+332000	333000	All right.	12
+333000	337000	This one, uh, I disagree with the way you described this.	13
+337000	340000	I mean, it looks like, you said it looks like someone with wings	13
+340000	342000	trying to, uh, fly away.	13
+342000	345000	I think it's more of a guy just, you know, having a good time.	13
+345000	350000	Uh, his arms are raised, and it's a, uh, parallelogram.	13
+350000	353000	The body is a giant parallelogram pointed to the right.	13
+353000	357000	The head is a diamond tilting to the left.	13
+357000	360000	Um, and, you know, it's got the wings or the arms,	13
+360000	363000	uh, out raised, out stretched, you know.	13
+363000	365000	Um.	13
+371000	373000	Okay, this is a giraffe with a brachiosaurus.	14
+373000	376000	Um, square body on the bottom.	14
+376000	378000	Uh, very long neck.	14
+378000	380000	And, cool.	14
+380000	383000	Oh, this is the person sitting down, uh,	15
+383000	385000	when the ball is on the right.	15
+385000	388000	So you can see the, it's flat on the right.	15
+388000	391000	The head is tilted down slightly to the left.	15
+391000	393000	Um, their legs are bent.	15
+393000	395000	It's a triangle at the bottom.	15
+395000	398000	Um, uh, yeah.	15
+404000	407000	Okay, this is a very small giraffe.	16
+408000	412000	Okay, this is a very symmetrical, hard-to-describe one.	16
+412000	417000	Um, however, there is a trapezoid cut out from the top of it.	16
+417000	420000	Um, and, yeah, it's symmetrical.	16
+420000	423000	Uh, yeah.	16
+428000	431000	Okay, this, uh...	17
+433000	436000	Oh, wine glass. Yeah, person with a wine glass.	17
+436000	439000	Um, the upright diamond head.	17
+439000	442000	Um, and the wine glass is to the left.	17
+450000	452000	Okay, this is a horse without a leg.	18
+452000	456000	Um, you know, it has the triangle head.	18
+456000	459000	And to the right, it has the triangle foot.	18
 459000	462000	Um, yeah.
-466000	469000	Good.
-496000	498000	That's good.
-504000	506000	Okay.
-509000	511000	Okay.

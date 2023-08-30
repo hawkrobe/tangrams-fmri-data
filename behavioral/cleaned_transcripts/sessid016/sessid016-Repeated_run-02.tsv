@@ -1,6 +1,6 @@
-start	end	text
+start	end	text	trial
 0	27800	Oh, it's a toilet, oh, okay.
-28800	46800	Uh, sad rabbit.
+TRIAL2	46800	Uh, sad rabbit.
 46800	55800	Tank.
 55800	71800	Tank.
 71800	87800	Flying glass.

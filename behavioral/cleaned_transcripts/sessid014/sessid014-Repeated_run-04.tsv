@@ -1,38 +1,35 @@
-start	end	text
-0	1000	Yep.
-1000	2000	Yep.
-2000	27000	Okay, this is the person that's going to be the first person to answer the question.
-28000	32000	Okay, this is the person sitting with their back to the right.
-32000	43000	They've got their head tilted down.
-43000	46000	This is the giraffe that doesn't have any legs.
-46000	58000	It's got like the square body.
-58000	74000	This is the guy with his hands in the air having a good time, you said, that I said looks like he's flying.
-74000	79000	This is the hard to describe one with the really tiny triangle head that looks like it's holding the box.
-79000	92000	It's got that tiny triangle up at the top pointing to the left.
-92000	94000	This is the pine cone.
-94000	108000	It's symmetrical and has that flat square at the top, the two triangle cutouts on the sides.
-108000	122000	This is the scuba diver or fish with a top hat.
-122000	128000	This is the one with the square pushing the triangle off the cliff.
-128000	130000	The left side is very jagged.
-130000	145000	The right side also is kind of jagged but is not as...
-145000	150000	Okay, this one is the one you describe as like the girl wearing the skirt.
-150000	165000	She's kind of got her arms going one to each side and at the very bottom has that triangle pointing down.
-165000	167000	This is the one that I got wrong.
-167000	169000	You don't have to hate to say it.
-169000	184000	It's the one with the dancer and it's got a long train going out to the left.
-184000	192000	Okay, this is the hard to describe one that has a very symmetrical top and then the piece sticking out and down to the right.
-192000	202000	It has those spiky cutouts at the top.
-202000	206000	This is the other one that looks like a cliff but nobody's getting pushed off.
-206000	208000	It's just the square at the very top of it.
-208000	221000	It's got that flat side on the left and then the jagged side on the right.
-221000	223000	This is the wide glass person.
-223000	235000	It's got that head at the top.
-235000	250000	This is the bamboo shoot or the post with...
-250000	265000	This is the house with the smokestack to the right of it, the log.
-265000	269000	This is the symmetrical one that's hard to describe.
-269000	281000	It has that trapezoidal cutout at the top.
-281000	295000	This is the shrimp or the gun.
-295000	310000	This is the ballerina sticking her leg out to the back in arabesque, got the two arms out to the front.
-310000	313000	This is the horse with no front legs.
-313000	342000	It's got the triangle head, the triangle back legs.
-342000	358000	That's good.
+start	end	text	trial
+2000	27000	Okay, this is the person that's going to be the first person to answer the question.	1
+28000	32000	Okay, this is the person sitting with their back to the right.	2
+32000	43000	They've got their head tilted down.	2
+43000	46000	This is the giraffe that doesn't have any legs.	3
+46000	58000	It's got like the square body.	3
+58000	74000	This is the guy with his hands in the air having a good time, you said, that I said looks like he's flying.	4
+74000	79000	This is the hard to describe one with the really tiny triangle head that looks like it's holding the box.	5
+79000	92000	It's got that tiny triangle up at the top pointing to the left.	5
+92000	94000	This is the pine cone.	6
+94000	108000	It's symmetrical and has that flat square at the top, the two triangle cutouts on the sides.	6
+108000	122000	This is the scuba diver or fish with a top hat.	7
+122000	128000	This is the one with the square pushing the triangle off the cliff.	8
+128000	130000	The left side is very jagged.	8
+130000	145000	The right side also is kind of jagged but is not as...	8
+145000	150000	Okay, this one is the one you describe as like the girl wearing the skirt.	9
+150000	165000	She's kind of got her arms going one to each side and at the very bottom has that triangle pointing down.	9
+165000	167000	This is the one that I got wrong.	10
+167000	169000	You don't have to hate to say it.	10
+169000	184000	It's the one with the dancer and it's got a long train going out to the left.	10
+184000	192000	Okay, this is the hard to describe one that has a very symmetrical top and then the piece sticking out and down to the right.	11
+192000	202000	It has those spiky cutouts at the top.	11
+202000	206000	This is the other one that looks like a cliff but nobody's getting pushed off.	12
+206000	208000	It's just the square at the very top of it.	12
+208000	221000	It's got that flat side on the left and then the jagged side on the right.	12
+221000	223000	This is the wide glass person.	13
+223000	235000	It's got that head at the top.	13
+235000	250000	This is the bamboo shoot or the post with...	14
+250000	265000	This is the house with the smokestack to the right of it, the log.	15
+265000	269000	This is the symmetrical one that's hard to describe.	16
+269000	281000	It has that trapezoidal cutout at the top.	16
+281000	295000	This is the shrimp or the gun.	17
+295000	310000	This is the ballerina sticking her leg out to the back in arabesque, got the two arms out to the front.	18
+310000	313000	This is the horse with no front legs.	18
+313000	342000	It's got the triangle head, the triangle back legs.	18

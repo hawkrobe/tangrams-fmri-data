@@ -1,7 +1,6 @@
-start	end	text
+start	end	text	trial
 0	8120	Big step!
-8120	15120	big step
-22120	29120	magician
+TRIAL2	29120	magician
 38120	60120	Michael Jackson
 90120	94120	Arms out
 108120	110120	Tank

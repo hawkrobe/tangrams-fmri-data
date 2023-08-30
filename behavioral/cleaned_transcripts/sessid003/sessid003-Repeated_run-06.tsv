@@ -1,35 +1,25 @@
-start	end	text
-0	3000	Oh, what about Daniel Oh
-13920	15920	Karate guy
-30000	34680	Oh, it's the angry policeman
-51760	53760	It's the TV stands
-60040	62040	Oh
-68320	70320	It's it's John
-75440	77800	Or Don the horse the tail
-90880	93760	It's the guy with the bowl of ramen noodles
-106960	108960	Oh, it's the happy horse guy
-120880	122880	Oh
-141760	143880	Oh, it's the guy with a smelly towel
-145640	147640	The kids could have pooped on them
-147800	151280	The bear the bear guy, yeah
-151280	153280	Oh
-175680	177680	That's the beautiful garden
-181440	183440	Are all saying the same
-187880	189880	Exactly
-192200	197440	It's the guy crying with their other needs he's not doing the wall set
-197600	199600	Oh
-210800	212800	It's
-227800	230480	Oh, this is Daniel
-233480	235480	That's that Daniel
-236880	238880	Maybe I'll light up soon
-244480	247280	Yeah, okay, this is bugs bunny
-258440	261840	Oh, this is wall squat guy
-268480	270480	This likes gotta be hurt by now
-279680	281680	Oh, it's the goose
-287560	289560	Oh
-297840	303640	It's they're really simple man, but the 401k and the wife and kids
-312400	315720	Oh, and it's the house with the tree
-317440	319440	Oh
-327360	329360	What tomorrow
-333360	335360	This is 36
-335360	337840	Oh
+start	end	text	trial
+13920	15920	Karate guy	1
+15920	34680	Oh, it's the angry policeman	2
+51760	53760	It's the TV stand	3
+68320	70320	It's it's John	4
+75440	77800	Johnny, the horse with the tail	4
+90880	93760	It's the guy with the bowl of ramen noodles	5
+106960	108960	Oh, it's the happy horse guy	6
+106960	141760	It's the drinking fountain	7
+141760	143880	Oh, it's the guy with a smelly towel	8
+145640	147640	The goose could have pooped on them	8
+147800	151280	The bear the bear guy, yeah	8
+151280	175680	Ronaldo	9
+175680	177680	That's the beautiful garden fountain	10
+192200	197440	It's the guy praying on their knees, he's not doing the wall sit	11
+197600	199600	It's Darrel	12
+227800	230480	Oh, this is Daniel	13
+233480	235480	Sad sad Daniel	13
+236880	238880	Maybe I'll lighten up soon	13
+244480	247280	Yeah, okay, this is bugs bunny	14
+258440	261840	Oh, this is wall squat guy	15
+268480	270480	His legs gotta be hurting by now	15
+279680	281680	Oh, it's the goose	16
+297840	303640	It's the really simple man, with the 401k and the wife and kids	17
+312400	315720	Oh, and it's the house with the tree	18

@@ -1,6 +1,6 @@
-start	end	text
+start	end	text	trial
 0	29000	This is the Crocodile.
-29000	54000	Not a tree.
+TRIAL2	54000	Not a tree.
 54000	68000	Woman bugging.
 68000	84000	Ballerina.
 84000	99000	Sad ghost.

@@ -1,12 +1,7 @@
-start	end	text
-0	5000	Okay.
-5000	10000	Yeah, definitely.
-10000	15000	Okay.
-15000	20000	Okay.
-20000	25000	Okay.
+start	end	text	trial
 25000	30000	Okay.
 30000	45000	So this one, it kind of looks like the flamingo facing right, kind of jumping.
-45000	69000	This one, it looks like the person bending their knees to the right, outstretching their arms, and the right triangular cutout is slightly above the left triangular cutout.
+TRIAL2	69000	This one, it looks like the person bending their knees to the right, outstretching their arms, and the right triangular cutout is slightly above the left triangular cutout.
 69000	81000	Top view of a crab.
 81000	94000	Yep.
 94000	111000	This one looks like the letter I, except the left half has some extra stuff.

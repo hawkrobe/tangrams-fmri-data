@@ -1,23 +1,23 @@
 {
-  "Acknowledgements": "We thank Terry Sacket and the rest of the DBIC (Dartmouth Brain Imaging Center) personnel for assistance in data collection, and Yaroslav Halchenko and Matteo Visconti for preparing BIDS dataset. TODO: more",
+  "Acknowledgements": "We thank Paul Scotti, Srija Makkapati, Jamal Williams, Isaac Christian, Sam
+                       Nastase, William Wolf, Gus Hennings, Elita Lee, MJ Schneider, Arielle Belluck,
+                       Paul Kubit, and Nastasia Klevak for their help with data collection. We are also
+                       grateful for assistance during data collection from the Scully Center staff:
+                       Leigh Nystrom, Mark Pinsk, and Nick DePinto. Finally, thank you to the
+                       participants of the MIND Summer School who assisted with data preparation and early analyses:
+                       Sushmita Sadhukha, Danika Geisler, Guangyao Qi, Hayoung Song, Miriam Romaneli, and Sue Lim.",
   "Authors": [
-    "TODO:",
-    "First1 Last1",
-    "First2 Last2",
-    "..."
+    "TODO:"
   ],
   "BIDSVersion": "1.0.1",
-  "DatasetDOI": "TODO: eventually a DOI for the dataset",
+  "DatasetDOI": "TODO",
   "Funding": [
-    "TODO",
-    "GRANT #1",
-    "GRANT #2"
+    "TODO"
   ],
   "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
-  "License": "TODO: choose a license, e.g. PDDL (http://opendatacommons.org/licenses/pddl/)",
-  "Name": "TODO: name of the dataset",
+  "License": "CC0",
+  "Name": "Tangrams",
   "ReferencesAndLinks": [
-    "TODO",
     "List of papers or websites"
   ]
 }
