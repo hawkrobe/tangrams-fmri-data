@@ -1,55 +1,52 @@
 start	end	text	trial
-0	1000	Mm-hmm.
-11000	12000	Oh.
-13000	14000	Mm-hmm.
-14000	43000	Okay, this one has the square diamond head shape, like, pointed up towards the top,
-43000	44000	like, specially at the top.
-44000	49000	And then it has, like, a trapezoid kind of jutting out to the left.
-49000	53000	And at the very, very bottom of this shape is a little tiny triangle pointed down.
-53000	59000	It's kind of hard to describe overall, but, like, at the bottom right is a tiny pointed
-59000	60000	down triangle.
-60000	64000	And then that kind of connects to a larger triangle that's pointed upwards, and that
-64000	67000	connects to the main part of the shape.
-TRIAL2	81000	This one is the house with the smokestack to the right of it.
-91000	95000	Okay, this one is the one with the square pushing the triangle off the cliff, right?
-95000	101000	To the left it's a very jagged, like, cliff-like shape, and then the right has, like, the square
-101000	104000	at the very top, and then the triangle being pushed off.
-112000	118000	This one is the person sitting with their back to something to the right of them, and
-118000	121000	it's got, like, their head tilted down to the left, and their knees kind of stretched
-121000	123000	to the left.
-131000	134000	This one is the horse without any front legs, right?
-134000	138000	It's got that triangle top head part, and then it's...
-148000	150000	This is the person with the wine glass, right?
-150000	152000	It's got the, yeah...
-161000	165000	Okay, this is the one that we said is really hard to describe, and it's got, like, the
-165000	167000	very jagged top.
-167000	170000	It's got, like, two triangle cutouts for the top, and then it has...
-170000	174000	So it has the symmetrical top, and then, like, the piece sticking out from the bottom.
-183000	188000	This is the shrimp for the gull, kind of...
-191000	204000	Okay, this is the really hard to describe symmetrical one with the trapezoid cutout
-204000	206000	at the top.
-206000	221000	This is the very tall vertical...
-221000	225000	I called it a lamppost with, like, speakers jumping out of it, but you...
-225000	237000	Okay, this is the one that I got wrong.
-237000	242000	It's the dancer one with, like, the long, train, flowy dress at the back of it.
-242000	255000	This is the one that you disagreed with by assessment.
-255000	258000	I called it, like, a flying person, but you said it was kind of just, like, a guy having
-258000	259000	a good time.
-259000	260000	He's got his arms up.
-260000	273000	This is the giraffe, if you called it, or the brachiosaurus with no legs.
-273000	284000	It's got, like, those tall big legs.
-284000	289000	This is the ballerina with the leg out behind them to the right, and then, like, their two
-289000	292000	arms sticking out to the left.
-292000	305000	It's got that rhombus-shaped head.
-305000	309000	Okay, this one is also very hard to describe.
-309000	314000	At the very top, it has a tiny little triangle pointing to the left, and then, farther down,
-314000	328000	it kind of looks like it's holding, like, a box or, like, that diamond square shape.
-328000	332000	This is the one that kind of just looks like a square on a cliff, right?
-332000	336000	The right side of the shape is very jagged, while the left side of the shape is very smooth,
-336000	347000	and then at the very top of it is a square.
-347000	349000	This is the pine cone, right?
-349000	351000	It's very symmetrical.
-351000	365000	It's got, like, a square at the top and two...
-365000	369000	This is the one you call the scuba diver, which is a much better assessment than a
-369000	397000	fish wearing a top hat.
-397000	406000	Yep.
+14000	43000	Okay, this one has the square diamond head shape, like, pointed up towards the top,	1
+43000	44000	like, specially at the top.	1
+44000	49000	And then it has, like, a trapezoid kind of jutting out to the left.	1
+49000	53000	And at the very, very bottom of this shape is a little tiny triangle pointed down.	1
+53000	59000	It's kind of hard to describe overall, but, like, at the bottom right is a tiny pointed	 1
+59000	60000	down triangle.	1
+60000	64000	And then that kind of connects to a larger triangle that's pointed upwards, and that	1
+64000	67000	connects to the main part of the shape.	1
+67000	81000	This one is the house with the smokestack to the right of it.	2
+91000	95000	Okay, this one is the one with the square pushing the triangle off the cliff, right?	3
+95000	101000	To the left it's a very jagged, like, cliff-like shape, and then the right has, like, the square	3
+101000	104000	at the very top, and then the triangle being pushed off.	3
+112000	118000	This one is the person sitting with their back to something to the right of them, and	4
+118000	121000	it's got, like, their head tilted down to the left, and their knees kind of stretched	4
+121000	123000	to the left.	4
+131000	134000	This one is the horse without any front legs, right?	5
+134000	138000	It's got that triangle top head part, and then it's...	5
+148000	150000	This is the person with the wine glass, right?	6
+150000	152000	It's got the, yeah...	6
+161000	165000	Okay, this is the one that we said is really hard to describe, and it's got, like, the	7
+165000	167000	very jagged top.	7
+167000	170000	It's got, like, two triangle cutouts for the top, and then it has...	7
+170000	174000	So it has the symmetrical top, and then, like, the piece sticking out from the bottom.	7
+183000	188000	This is the shrimp for the gull, kind of...	8
+191000	204000	Okay, this is the really hard to describe symmetrical one with the trapezoid cutout	9
+204000	206000	at the top.	9
+206000	221000	This is the very tall vertical...	10
+221000	225000	I called it a lamppost with, like, speakers jumping out of it, but you...	10
+225000	237000	Okay, this is the one that I got wrong.	11
+237000	242000	It's the dancer one with, like, the long, train, flowy dress at the back of it.	11
+242000	255000	This is the one that you disagreed with by assessment.	12
+255000	258000	I called it, like, a flying person, but you said it was kind of just, like, a guy having	12
+258000	259000	a good time.	12
+259000	260000	He's got his arms up.	12
+260000	273000	This is the giraffe, if you called it, or the brachiosaurus with no legs.	13
+273000	284000	It's got, like, those tall big legs.	13
+284000	289000	This is the ballerina with the leg out behind them to the right, and then, like, their two	14
+289000	292000	arms sticking out to the left.	14
+292000	305000	It's got that rhombus-shaped head.	14
+305000	309000	Okay, this one is also very hard to describe.	15
+309000	314000	At the very top, it has a tiny little triangle pointing to the left, and then, farther down,	15
+314000	328000	it kind of looks like it's holding, like, a box or, like, that diamond square shape.	15
+328000	332000	This is the one that kind of just looks like a square on a cliff, right?	16
+332000	336000	The right side of the shape is very jagged, while the left side of the shape is very smooth,	16
+336000	347000	and then at the very top of it is a square.	16
+347000	349000	This is the pine cone, right?	17
+349000	351000	It's very symmetrical.	17
+351000	365000	It's got, like, a square at the top and two...	17
+365000	369000	This is the one you call the scuba diver, which is a much better assessment than a	18
+369000	397000	fish wearing a top hat.	18
+397000	406000	Yep.	18

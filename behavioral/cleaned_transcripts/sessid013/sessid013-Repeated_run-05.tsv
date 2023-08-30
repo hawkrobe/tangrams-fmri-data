@@ -1,21 +1,20 @@
 start	end	text	trial
-0	3000	I think I had a bit more head movement there, sorry.
-26000	29000	It's the diagonal animal.
-TRIAL2	44000	It's the guy with two triangles for a head.
-44000	58000	It's the ballet guy.
-58000	76000	It's the guy who's trying out a new dance move.
-88000	103000	It's the flower.
-103000	119000	It's the guy who's walking with his left foot up.
-119000	133000	It's the toilet.
-133000	151000	It's the little boat.
-151000	167000	It's the angel.
-167000	181000	It's the guy in the top hat.
-181000	194000	It's the house.
-194000	207000	It's the whale.
-207000	223000	It's the guy holding a plate.
-223000	238000	It's the kid riding an animal.
-238000	252000	It's the crab.
-252000	270000	It's the guy whose left side is a square and right side is a jagged line.
-270000	288000	It's the guy with shoulders and no arms.
-288000	313000	It's the guy doing yoga.
-313000	325000	It's the guy who's trying out a new dance move.
+26000	29000	It's the diagonal animal.	1
+29000	44000	It's the guy with two triangles for a head.	2
+44000	58000	It's the ballet guy.	3
+58000	76000	It's the guy who's trying out a new dance move.	4
+88000	103000	It's the flower.	5
+103000	119000	It's the guy who's walking with his left foot up.	6
+119000	133000	It's the toilet.	7
+133000	151000	It's the little boat.	8
+151000	167000	It's the angel.	9
+167000	181000	It's the guy in the top hat.	10
+181000	194000	It's the house.	11
+194000	207000	It's the whale.	12
+207000	223000	It's the guy holding a plate.	13
+223000	238000	It's the kid riding an animal.	14
+238000	252000	It's the crab.	15
+252000	270000	It's the guy whose left side is a square and right side is a jagged line.	16
+270000	288000	It's the guy with shoulders and no arms.	16
+288000	313000	It's the guy doing yoga.	17
+313000	325000	It's the guy who's trying out a new dance move.	18

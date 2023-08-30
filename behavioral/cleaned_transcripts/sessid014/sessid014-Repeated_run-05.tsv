@@ -1,96 +1,78 @@
 start	end	text	trial
-0	7440	Yep.
-7440	14260	Okay.
-14260	26400	Speak slowly.
-26400	28400	Okay, this is the bamboo shoot.
-TRIAL2	29400	Okay.
-29400	31400	Telephone pole.
-31400	33400	Speakers.
-42400	44400	This is the air mass cancer.
-44400	46400	Two arms to the left.
-46400	48400	Dino foot to the right.
-57400	59400	This is the clip.
-59400	61400	Left side is flat.
-61400	63400	Right side is jagged.
-63400	65400	Diamond on top.
-75400	77400	This is the triangle.
-77400	79400	It's being pushed off the clip.
-79400	81400	Square is doing the action.
-81400	83400	He will go to jail.
-83400	85400	Maybe he won't.
-86400	88400	I could not hear that.
-90400	92400	The triangle is being pushed off the clip.
-92400	94400	By the square.
-94400	96400	Off the jagged clip.
-96400	98400	The left side is very jagged.
-98400	100400	And my side is less jagged.
-108400	110400	Okay, this is the scuba diver.
-110400	112400	With a small pad.
-112400	114400	And a little triangle.
-114400	116400	And a jet pack.
-125400	127400	Okay, this is the giraffe.
-127400	129400	With a brunky assortment.
-129400	131400	With no legs.
-131400	133400	And a triangleish head.
-139400	142400	Okay, this is the hard to describe figure.
-142400	144400	With a small triangle head.
-144400	146400	One to the left.
-146400	148400	And is carrying a box.
-148400	150400	If you've seen spirited away.
-150400	152400	I think it looks like one of the curtains.
-158400	160400	Okay, this is the symmetric figure.
-160400	162400	With a traffic jam cut out of it.
-162400	164400	Hard to describe maybe.
-164400	166400	If enough.
-172400	174400	Okay, this is the wine glass person.
-174400	176400	With a long robe on.
-176400	178400	You know.
-178400	180400	A diamond face.
-188400	190400	This is the person with the skirt on.
-190400	192400	She's pointing to the right.
-192400	194400	Her legs are out to the right.
-194400	196400	Chancellor is jutting out from the middle.
-196400	198400	The left.
-198400	200400	Diamond head.
-200400	202400	She's sitting down.
-210400	212400	Horse with no legs.
-212400	214400	Triangle head.
-214400	216400	Triangle feet as well.
-216400	218400	This is the strip.
-218400	220400	Or the gun.
-228400	230400	This is the one you got wrong.
-230400	232400	The right one.
-232400	234400	The left one.
-234400	236400	The right one.
-236400	238400	The right one.
-238400	240400	The left one.
-240400	242400	The right one.
-242400	244400	The left one.
-244400	246400	This is the one you got wrong.
-246400	248400	I still hate to say it.
-250400	252400	There's a square on her head.
-252400	254400	And Chloe dressed.
-254400	256400	To the left.
-264400	266400	This is the one where it's symmetric at the top.
-266400	268400	And it's not at the bottom.
-268400	270400	And it juts out at the bottom.
-270400	272400	Bottom right.
-274400	276400	House with smokestack.
-282400	284400	House with smokestack.
-286400	288400	Smokestack is on the right.
-296400	298400	This is one we disagreed on.
-298400	300400	Guy's having a good time or he's flying away.
-300400	302400	Maybe both.
-304400	306400	This is the person sitting down.
-306400	308400	The wall is to the right.
-308400	310400	And they're looking down.
-310400	312400	Their head is a square.
-330400	332400	This is the pine cone.
-332400	334400	Symmetric.
-334400	336400	Square on top.
-336400	338400	Black.
-362400	364400	Black.
-364400	366400	Black.
-366400	368400	Black.
-368400	370400	Black.
-376400	378400	Sassu.
+26400	28400	Okay, this is the bamboo shoot.	1
+28400	29400	Okay.	1
+29400	31400	Telephone pole.	1
+31400	33400	Speakers.	1
+42400	44400	This is the air mass cancer.	2
+44400	46400	Two arms to the left.	2
+46400	48400	Dino foot to the right.	2
+57400	59400	This is the clip.	3
+59400	61400	Left side is flat.	3
+61400	63400	Right side is jagged.	3
+63400	65400	Diamond on top.	3
+75400	77400	This is the triangle.	6
+77400	79400	It's being pushed off the clip.	6
+79400	81400	Square is doing the action.	6
+81400	83400	He will go to jail.	6
+83400	85400	Maybe he won't.	6
+86400	88400	I could not hear that.	6
+90400	92400	The triangle is being pushed off the clip.	6
+92400	94400	By the square.	6
+94400	96400	Off the jagged clip.	6
+96400	98400	The left side is very jagged.	6
+98400	100400	And my side is less jagged.	6
+108400	110400	Okay, this is the scuba diver.	7
+110400	112400	With a small pad.	7
+112400	114400	And a little triangle.	7
+114400	116400	And a jet pack.	7
+125400	127400	Okay, this is the giraffe.	8
+127400	129400	With a brunky assortment.	8
+129400	131400	With no legs.	8
+131400	133400	And a triangleish head.	8
+139400	142400	Okay, this is the hard to describe figure.	9
+142400	144400	With a small triangle head.	9
+144400	146400	One to the left.	9
+146400	148400	And is carrying a box.	9
+148400	150400	If you've seen spirited away.	9
+150400	152400	I think it looks like one of the curtains.	9
+158400	160400	Okay, this is the symmetric figure.	10
+160400	162400	With a traffic jam cut out of it.	10
+162400	164400	Hard to describe maybe.	10
+164400	166400	If enough.	10
+172400	174400	Okay, this is the wine glass person.	11
+174400	176400	With a long robe on.	11
+176400	178400	You know.	11
+178400	180400	A diamond face.	11
+188400	190400	This is the person with the skirt on.	12
+190400	192400	She's pointing to the right.	12
+192400	194400	Her legs are out to the right.	12
+194400	196400	Chancellor is jutting out from the middle.	12
+196400	198400	The left.	12
+198400	200400	Diamond head.	12
+200400	202400	She's sitting down.	12
+210400	212400	Horse with no legs.	13
+212400	214400	Triangle head.	13
+214400	216400	Triangle feet as well.	13
+216400	218400	This is the strip.	14
+218400	220400	Or the gun.	14
+228400	230400	This is the one you got wrong.	15
+246400	248400	I still hate to say it.	15
+250400	252400	There's a square on her head.	15
+252400	254400	And Chloe dressed.	15
+254400	256400	To the left.	15
+264400	266400	This is the one where it's symmetric at the top.	15
+266400	268400	And it's not at the bottom.	15
+268400	270400	And it juts out at the bottom.	15
+270400	272400	Bottom right.	15
+274400	276400	House with smokestack.	16
+286400	288400	Smokestack is on the right.	16
+296400	298400	This is one we disagreed on.	17
+298400	300400	Guy's having a good time or he's flying away.	17
+300400	302400	Maybe both.	17
+304400	306400	This is the person sitting down.	18
+306400	308400	The wall is to the right.	18
+308400	310400	And they're looking down.	18
+310400	312400	Their head is a square.	18
+330400	332400	This is the pine cone.	18
+332400	334400	Symmetric.	18
+334400	336400	Square on top.	18

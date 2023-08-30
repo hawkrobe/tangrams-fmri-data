@@ -1,30 +1,24 @@
 start	end	text	trial
-30000	54560	Um, it's the one who is riding a little animal, the kid riding an animal.
-TRIAL2	69520	This one is the guy holding the plate.
-69520	82520	This is the house.
-82520	99480	Um, the dude who just has shoulders and no arms.
-99480	115480	Um, the guy who's kind of doing like a yoga type thing with his elbow up, yeah.
-115480	122480	Um, this guy is standing on his left foot with his right foot back.
-122480	127480	Sort of up off, like, he's like dancing I think you said.
-127480	138480	Yeah.
-138480	155480	Um, the diagonal animal.
-155480	160480	Um, this is the guy who's kind of walking.
-160480	165480	Um, this is the left one, I don't know, point it up.
-165480	177480	Yeah, exactly, exactly, yeah.
-177480	193480	This is the ballet guy.
-193480	210480	Um, it's the guy in the top hat.
-210480	225480	Our friend the crab.
-225480	238480	The whale.
-238480	253480	Um, the angel.
-253480	270480	The guy with two triangles instead of a diamond for a head who's holding a book, yeah.
-270480	284480	This is the guy in the toilet.
-284480	301480	The flower.
-301480	318480	The little boat with the diamond on top.
-318480	329480	And the guy whose left side is sort of a square and his right side is sort of a jaggedy thing.
-329480	333480	Woohoo!
-333480	348480	Yeah, you too.
-348480	350480	Yeah, it's good.
-350480	354480	How was the head movement there?
-354480	355480	Okay.
-355480	356480	Yeah.
-356480	357480	Okay.
+30000	54560	Um, it's the one who is riding a little animal, the kid riding an animal.	1
+54560	69520	This one is the guy holding the plate.	2
+69520	82520	This is the house.	3
+82520	99480	Um, the dude who just has shoulders and no arms.	4
+99480	115480	Um, the guy who's kind of doing like a yoga type thing with his elbow up, yeah.	5
+115480	122480	Um, this guy is standing on his left foot with his right foot back.	6
+122480	127480	Sort of up off, like, he's like dancing I think you said.	6
+127480	138480	Yeah.	6
+138480	155480	Um, the diagonal animal.	7
+155480	160480	Um, this is the guy who's kind of walking.	8
+160480	165480	Um, this is the left one, I don't know, point it up.	8
+165480	177480	Yeah, exactly, exactly, yeah.	8
+177480	193480	This is the ballet guy.	9
+193480	210480	Um, it's the guy in the top hat.	10
+210480	225480	Our friend the crab.	11
+225480	238480	The whale.	12
+238480	253480	Um, the angel.	13
+253480	270480	The guy with two triangles instead of a diamond for a head who's holding a book, yeah.	14
+270480	284480	This is the guy in the toilet.	15
+284480	301480	The flower.	16
+301480	318480	The little boat with the diamond on top.	17
+318480	329480	And the guy whose left side is sort of a square and his right side is sort of a jaggedy thing.	18
+329480	333480	Woohoo!	18
