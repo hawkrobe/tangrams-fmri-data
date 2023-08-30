@@ -1,7 +1,7 @@
 start	end	text	trial
 0	20520	This is the one with the three middle sections and the little triangle on the bottom right	1
 20520	21520	pointing downwards.	1
-TRIAL2	43200	The one with the flower part pointing upwards and then a parallelogram on the bottom going	2
+21520	43200	The one with the flower part pointing upwards and then a parallelogram on the bottom going	2
 43200	60080	down to the left.	2
 60080	76000	person sitting down looking to the left with their knees bent and toe pointing upwards.	3
 76000	87480	Standing on one leg with two large triangles.	4

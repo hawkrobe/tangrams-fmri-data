@@ -1,4 +1,4 @@
-start	end	text
+start	end	text	trial
 0	4000	Too uncomfortable?
 4000	10000	Okay, I'll let you know.
 10000	14000	Okay.
