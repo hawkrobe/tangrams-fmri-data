@@ -1,43 +1,43 @@
-participant_id	age	sex	group
-sub-p002	22	M	control
-sub-s002	20	M	control
-sub-s003	20	M	control
-sub-s005	32	F	control
-sub-s006	21	F	control
-sub-p003	19	F	control
-sub-p004	18	F	control
-sub-p005	22	F	control
-sub-p006	21	F	control
-sub-p007	21	M	control
-sub-s007	18	F	control
-sub-s008	22	F	control
-sub-p008	20	M	control
-sub-p009	19	F	control
-sub-p011	22	M	control
-sub-s011	19	M	control
-sub-p010	18	F	control
-sub-s004	19	F	control
-sub-s009	18	F	control
-sub-s010	20	F	control
-sub-s012	19	F	control
-sub-s013	21	F	control
-sub-p012	18	M	control
-sub-p013	22	F	control
-sub-p014	20	M	control
-sub-s016	20	F	control
-sub-s015	21	M	control
-sub-p016	21	F	control
-sub-p015	18	F	control
-sub-s014	20	F	control
-sub-s017	22	F	control
-sub-p017	20	M	control
-sub-p018	21	F	control
-sub-p019	21	F	control
-sub-s018	19	M	control
-sub-s019	21	M	control
-sub-p022	31	M	control
-sub-p021	22	F	control
-sub-p020	22	M	control
-sub-s021	22	M	control
-sub-s022	21	F	control
-sub-s020	21	F	control
+participant_id	age	sex
+sub-p002	22	M
+sub-s002	20	M
+sub-s003	20	M
+sub-s005	32	F
+sub-s006	21	F
+sub-p003	19	F
+sub-p004	18	F
+sub-p005	22	F
+sub-p006	21	F
+sub-p007	21	M
+sub-s007	18	F
+sub-s008	22	F
+sub-p008	20	M
+sub-p009	19	F
+sub-p011	22	M
+sub-s011	19	M
+sub-p010	18	F
+sub-s004	19	F
+sub-s009	18	F
+sub-s010	20	F
+sub-s012	19	F
+sub-s013	21	F
+sub-p012	18	M
+sub-p013	22	F
+sub-p014	20	M
+sub-s016	20	F
+sub-s015	21	M
+sub-p016	21	F
+sub-p015	18	F
+sub-s014	20	F
+sub-s017	22	F
+sub-p017	20	M
+sub-p018	21	F
+sub-p019	21	F
+sub-s018	19	M
+sub-s019	21	M
+sub-p022	31	M
+sub-p021	22	F
+sub-p020	22	M
+sub-s021	22	M
+sub-s022	21	F
+sub-s020	21	F

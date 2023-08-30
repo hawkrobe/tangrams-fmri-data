@@ -3,12 +3,9 @@
     "Description": "Participant identifier"
   },
   "age": {
-    "Description": "Age in years (TODO - verify) as in the initial session, might not be correct for other sessions"
+    "Description": "Age in years"
   },
   "sex": {
-    "Description": "self-rated by participant, M for male/F for female (TODO: verify)"
-  },
-  "group": {
-    "Description": "(TODO: adjust - by default everyone is in control group)"
+    "Description": "Self-reported by participant, M for male/F for female"
   }
 }
